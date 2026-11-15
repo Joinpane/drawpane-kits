@@ -148,6 +148,24 @@ function kindOf(categories) {
   return "other";
 }
 
+/**
+ * What kind of file an export is, from its first bytes (a range request, so
+ * nothing is downloaded): a zip (Penpot 2's binfile v3), Penpot 1's binfile
+ * v1, binfile v2 (SQLite), or a Git LFS pointer, which is what Pages serves
+ * for a file kept in LFS. Drawpane says up front what it can't import.
+ */
+async function containerOf(url) {
+  const response = await get(url, { headers: { range: "bytes=0-31" } });
+  if (!response) return null;
+  const bytes = new Uint8Array(await response.arrayBuffer()).subarray(0, 32);
+  const text = new TextDecoder("latin1").decode(bytes);
+  if (bytes[0] === 0x50 && bytes[1] === 0x4b && bytes[2] === 0x03 && bytes[3] === 0x04) return "zip";
+  if (bytes[0] === 0x01 && bytes[1] === 0x0b && bytes[2] === 0x1a && bytes[3] === 0x86) return "binfile-v1";
+  if (text.startsWith("SQLite format 3")) return "binfile-v2";
+  if (text.startsWith("version https://git-lfs")) return "lfs-pointer";
+  return "unknown";
+}
+
 /** A stable id from the file name: lower case, dashes. */
 const idOf = (fileName) =>
   `penpot-${fileName
@@ -177,6 +195,18 @@ async function main() {
     const name = fileNameOf(entry.download);
     if (name && byName.has(name) && !hubByFile.has(name)) hubByFile.set(name, entry);
   }
+
+  const containers = new Map();
+  const exports = files.filter((f) => /\.penpot$/i.test(f.name));
+  let nextFile = 0;
+  await Promise.all(
+    Array.from({ length: CONCURRENCY }, async () => {
+      while (nextFile < exports.length) {
+        const f = exports[nextFile++];
+        containers.set(f.name, await containerOf(pagesUrl(f.name)));
+      }
+    }),
+  );
 
   const kits = [];
   const seen = new Set();
@@ -209,6 +239,7 @@ async function main() {
         format: "penpot",
         bytes: file.size,
         gitSha1: file.sha,
+        container: containers.get(file.name) ?? null,
       },
       cover: hubEntry?.cover ?? null,
       published: hubEntry?.published ?? null,
@@ -235,7 +266,7 @@ async function main() {
       author: entry.author ? { name: entry.author } : null,
       source: { name: "Penpot's libraries and templates hub", page: entry.page, repository: null },
       licence: null,
-      file: file ? { url: file, format: "penpot", bytes: null, gitSha1: null } : null,
+      file: file ? { url: file, format: "penpot", bytes: null, gitSha1: null, container: null } : null,
       cover: entry.cover,
       published: entry.published,
       updated: entry.updated,
@@ -252,6 +283,9 @@ async function main() {
   await writeFile(out, `${JSON.stringify(source, null, 2)}\n`);
   const withHub = kits.filter((k) => k.source.page).length;
   const withLicence = kits.filter((k) => k.licence).length;
+  const byContainer = {};
+  for (const k of kits) if (k.file) byContainer[k.file.container] = (byContainer[k.file.container] ?? 0) + 1;
+  console.log("Files by container:", byContainer);
   console.log(
     `${kits.length} Penpot entries (${withHub} with a hub page, ${withLicence} with a LICENSE file) → ${out}`,
   );

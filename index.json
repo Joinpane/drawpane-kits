@@ -35,7 +35,8 @@
         "url": "https://penpot.github.io/penpot-files/%5BBeta%20Test%5D%20Variants%20sample.penpot",
         "format": "penpot",
         "bytes": 821295,
-        "gitSha1": "58b28453a2ad1f18a501fb7f6d9111012fd86d78"
+        "gitSha1": "58b28453a2ad1f18a501fb7f6d9111012fd86d78",
+        "container": "zip"
       },
       "cover": null,
       "published": null,
@@ -63,7 +64,8 @@
         "url": "https://penpot.github.io/penpot-files/100%20card%20design%20templates%20UI%20kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 2640161,
-        "gitSha1": "9fdd172ad581d22f091f36c0da1f3de57ddc26a6"
+        "gitSha1": "9fdd172ad581d22f091f36c0da1f3de57ddc26a6",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/8a17f9ac765eda59ec407bbc819c217e.png",
       "published": "2026-06-05",
@@ -91,7 +93,8 @@
         "url": "https://penpot.github.io/penpot-files/50%20Mobile%20Bottom%20Navigation%20Bar%20(Community).penpot",
         "format": "penpot",
         "bytes": 33456037,
-        "gitSha1": "ce3b48f6869bc5868b01d7e065e7b1762defe820"
+        "gitSha1": "ce3b48f6869bc5868b01d7e065e7b1762defe820",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/ac000000e3d28e9acf6f5c853ca66413.png",
       "published": "2026-06-01",
@@ -120,7 +123,8 @@
         "url": "https://penpot.github.io/penpot-files/50-Social-media-Icons.penpot",
         "format": "penpot",
         "bytes": 796287,
-        "gitSha1": "7105be88d8cfccea47a91c211052b775a72af162"
+        "gitSha1": "7105be88d8cfccea47a91c211052b775a72af162",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/2b0e5af3336303fa923fbdb5d0b71a17.webp",
       "published": "2026-08-25",
@@ -148,7 +152,8 @@
         "url": "https://penpot.github.io/penpot-files/59%20Charts%20UI%20Responsive%20Components%20Chart.js%20Chartist%20Apex%20Charts%20and%20Recharts%20(Community).penpot",
         "format": "penpot",
         "bytes": 27104315,
-        "gitSha1": "dc10e9492493e68c198cd8af47b4f87699141584"
+        "gitSha1": "dc10e9492493e68c198cd8af47b4f87699141584",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/3bfeac2ba4aefd4cb4850776b8d9e1d7.png",
       "published": "2026-06-08",
@@ -177,7 +182,8 @@
         "url": "https://penpot.github.io/penpot-files/Accessibility%20Documentation%20Template.penpot",
         "format": "penpot",
         "bytes": 6427811,
-        "gitSha1": "65b5af15707d5fbdf884bfaff7707eca903a7d97"
+        "gitSha1": "65b5af15707d5fbdf884bfaff7707eca903a7d97",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/21ab910968fb3d2e9ab0ee4ac4a5a64e.webp",
       "published": "2026-08-25",
@@ -226,7 +232,8 @@
         "url": "https://penpot.github.io/penpot-files/Ajeen%20Icons.penpot",
         "format": "penpot",
         "bytes": 3469015,
-        "gitSha1": "a58666f49b9194665217813defb311c1f4c35590"
+        "gitSha1": "a58666f49b9194665217813defb311c1f4c35590",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/b44248e844c5d200212f95bba9f6b105.png",
       "published": "2025-07-28",
@@ -254,7 +261,8 @@
         "url": "https://penpot.github.io/penpot-files/Android%20%26%20iOS%20Keyboards%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 35650959,
-        "gitSha1": "adbd492960ce132dea42b1fd758d38a198df8297"
+        "gitSha1": "adbd492960ce132dea42b1fd758d38a198df8297",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/b6fbd0ffd61cce812e6b40077b0c4e7f.png",
       "published": "2026-05-11",
@@ -282,7 +290,8 @@
         "url": "https://penpot.github.io/penpot-files/Android%20UI%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 82367913,
-        "gitSha1": "4b54b66fcfab0ed22b61eb458232fed68492ed6f"
+        "gitSha1": "4b54b66fcfab0ed22b61eb458232fed68492ed6f",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/7b499805a46d97c3a6dae8e928f3ed0e.png",
       "published": "2026-05-04",
@@ -310,7 +319,8 @@
         "url": "https://penpot.github.io/penpot-files/Ant%20Design%20System%20for%20Figma%20(Free%20version)%20(Community).penpot",
         "format": "penpot",
         "bytes": 59077196,
-        "gitSha1": "7ef3c83fa0f951060b703f01520177ea3f8daa98"
+        "gitSha1": "7ef3c83fa0f951060b703f01520177ea3f8daa98",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/89dcbcae025b677b5e883614fe12f5dd.jpg",
       "published": "2026-05-11",
@@ -343,7 +353,8 @@
         "url": "https://penpot.github.io/penpot-files/Ant-Design-UI-Kit-Lite.penpot",
         "format": "penpot",
         "bytes": 2736036,
-        "gitSha1": "07e93f0a6104db49be20644c0f24428a2d2e08f2"
+        "gitSha1": "07e93f0a6104db49be20644c0f24428a2d2e08f2",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/a2d386c3b6bfad6d8f7b0751c5aefe96.jpg",
       "published": null,
@@ -369,7 +380,8 @@
         "url": "https://penpot.github.io/penpot-files/antd-library.penpot",
         "format": "penpot",
         "bytes": 12314369,
-        "gitSha1": "741b6589d67e41ddb6ebb5ad26ec711b3e3ce803"
+        "gitSha1": "741b6589d67e41ddb6ebb5ad26ec711b3e3ce803",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/e7d8c9fe0cf1e497aff8a060d2863011.png",
       "published": "2026-09-27",
@@ -398,7 +410,8 @@
         "url": "https://penpot.github.io/penpot-files/app-inventor-classificacao-de-imagens.penpot",
         "format": "penpot",
         "bytes": 25343064,
-        "gitSha1": "3ed7f2f9cd5e5c3034ce6eca68a501f06e90282f"
+        "gitSha1": "3ed7f2f9cd5e5c3034ce6eca68a501f06e90282f",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/12e1e50ab6bb288023891939d5af650e.jpg",
       "published": "2025-01-24",
@@ -428,7 +441,8 @@
         "url": "https://penpot.github.io/penpot-files/Design_Systxema_v2.penpot",
         "format": "penpot",
         "bytes": 15198853,
-        "gitSha1": "6cddab3aca0277fb4b9b9688ff1c17d3e89b2d8d"
+        "gitSha1": "6cddab3aca0277fb4b9b9688ff1c17d3e89b2d8d",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/b48ea5532f390d3e5144d68a90082c27.webp",
       "published": "2026-08-25",
@@ -459,7 +473,8 @@
         "url": "https://penpot.github.io/penpot-files/Avataaars-by-Pablo-Stanley.penpot",
         "format": "penpot",
         "bytes": 1760281,
-        "gitSha1": "5a2b06aa8133a19a1028bbe1c4697a74900e0364"
+        "gitSha1": "5a2b06aa8133a19a1028bbe1c4697a74900e0364",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/098a5050b2bb30498396df227c5438a9.jpg",
       "published": "2025-02-05",
@@ -487,7 +502,8 @@
         "url": "https://penpot.github.io/penpot-files/Backstage%20Design%20System%20(Community).penpot",
         "format": "penpot",
         "bytes": 37268539,
-        "gitSha1": "066648215590ab7bce734068dff974b8f6567439"
+        "gitSha1": "066648215590ab7bce734068dff974b8f6567439",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/b9b80e7cb40467a366fa8233942cd359.png",
       "published": "2026-06-16",
@@ -515,7 +531,8 @@
         "url": "https://penpot.github.io/penpot-files/Basic%20layouts%20template.penpot",
         "format": "penpot",
         "bytes": 1459804,
-        "gitSha1": "88a98d5bdb73612480c8a935e5b9a23d59d1390b"
+        "gitSha1": "88a98d5bdb73612480c8a935e5b9a23d59d1390b",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/d44d4b22cfc3c8288b66fedfcb1f0cff.webp",
       "published": "2024-06-08",
@@ -544,7 +561,8 @@
         "url": "https://penpot.github.io/penpot-files/Bingo.penpot",
         "format": "penpot",
         "bytes": 824364,
-        "gitSha1": "684d1f78694e8c8ba5191831c180f252d54b5642"
+        "gitSha1": "684d1f78694e8c8ba5191831c180f252d54b5642",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/ec7c5274aa241da9c9ca45da9bb57d35.jpg",
       "published": "2025-01-28",
@@ -575,7 +593,8 @@
         "url": "https://penpot.github.io/penpot-files/BlenderDesignSystem_v1.0.penpot",
         "format": "penpot",
         "bytes": 41831810,
-        "gitSha1": "2c945dbd1445253d0ac2cfd00ec8ca10f1fa463d"
+        "gitSha1": "2c945dbd1445253d0ac2cfd00ec8ca10f1fa463d",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/405efff548dcf0e79be698b3c235a4b3.png",
       "published": "2026-06-23",
@@ -603,7 +622,8 @@
         "url": "https://penpot.github.io/penpot-files/BLOBA%20%E2%80%93%20Modular%20Organic%20Shapes.penpot",
         "format": "penpot",
         "bytes": 6731307,
-        "gitSha1": "f1dbe29feac9a0c9260fe817840f707c71016768"
+        "gitSha1": "f1dbe29feac9a0c9260fe817840f707c71016768",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/64d3c131e35fcabe6108b62fc2d839c8.png",
       "published": "2025-06-24",
@@ -631,7 +651,8 @@
         "url": "https://penpot.github.io/penpot-files/Board-game-cards-templates.penpot",
         "format": "penpot",
         "bytes": 4520074,
-        "gitSha1": "c9892a32c60f25f9c6d3a4efa693a5d51d2e8b0d"
+        "gitSha1": "c9892a32c60f25f9c6d3a4efa693a5d51d2e8b0d",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/5704d24d8a35ea0e306d2ed8cd0f2c51.webp",
       "published": "2025-01-16",
@@ -655,7 +676,8 @@
         "url": "https://penpot.github.io/penpot-files/Bootstrap%205%20UI%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 15317776,
-        "gitSha1": "22f734f330cf07a634b2ebf72437d09943ef46d0"
+        "gitSha1": "22f734f330cf07a634b2ebf72437d09943ef46d0",
+        "container": "zip"
       },
       "cover": null,
       "published": null,
@@ -684,7 +706,8 @@
         "url": "https://penpot.github.io/penpot-files/Boostrap%20Icons.penpot",
         "format": "penpot",
         "bytes": 1727854,
-        "gitSha1": "cc767aeaa4ce3102b9cf272c65c7df0cd6f3de63"
+        "gitSha1": "cc767aeaa4ce3102b9cf272c65c7df0cd6f3de63",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/e8bef93b4f90612e0fc73bf561a3f16a.webp",
       "published": "2026-08-25",
@@ -732,7 +755,8 @@
         "url": "https://penpot.github.io/penpot-files/Business%20Process%20Model%20and%20Notation%20BPMN%20Kit.penpot",
         "format": "penpot",
         "bytes": 1070011,
-        "gitSha1": "9bae02b7614e58191d6c0af2d174efbe5a5fbd25"
+        "gitSha1": "9bae02b7614e58191d6c0af2d174efbe5a5fbd25",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/700d65e10bb8a9ee186458d94cdf0da6.png",
       "published": "2025-10-02",
@@ -760,7 +784,8 @@
         "url": "https://penpot.github.io/penpot-files/Calendar%20Interactive%20UI%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 3067662,
-        "gitSha1": "1ed5576d038cacdcc3cfab864dd858cd7af040e9"
+        "gitSha1": "1ed5576d038cacdcc3cfab864dd858cd7af040e9",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/731eb6cd94ee456d0492c37403db4b8d.jpg",
       "published": "2026-06-05",
@@ -788,7 +813,8 @@
         "url": "https://penpot.github.io/penpot-files/Cartas%20Creativas.penpot",
         "format": "penpot",
         "bytes": 4311793,
-        "gitSha1": "e556ea0f09f2b30255505eaa15fa251352ca0440"
+        "gitSha1": "e556ea0f09f2b30255505eaa15fa251352ca0440",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/7ffe54823b423d23b7d72e1db6259e83.webp",
       "published": "2024-08-22",
@@ -820,7 +846,8 @@
         "url": "https://penpot.github.io/penpot-files/CircumIcons.penpot",
         "format": "penpot",
         "bytes": 491989,
-        "gitSha1": "34da6cee5ed7c4f493f73acab387679a26b31ecf"
+        "gitSha1": "34da6cee5ed7c4f493f73acab387679a26b31ecf",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/2563a2f993f47f22a3eb86aa844f250e.jpg",
       "published": "2025-02-05",
@@ -873,7 +900,8 @@
         "url": "https://penpot.github.io/penpot-files/Cocomaterial.penpot",
         "format": "penpot",
         "bytes": 10457166,
-        "gitSha1": "bf6c4ee03a77edaeb42d1ad47aa69708feaab809"
+        "gitSha1": "bf6c4ee03a77edaeb42d1ad47aa69708feaab809",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/9f586a5981878f7761e3cce3a589bc94.jpg",
       "published": "2024-09-13",
@@ -902,7 +930,8 @@
         "url": "https://penpot.github.io/penpot-files/Color%20palette%20kit%20-%20color%20assets%20v1.penpot",
         "format": "penpot",
         "bytes": 3147658,
-        "gitSha1": "a39991b37d1422050ed7c18fd675bb58e7f46fc6"
+        "gitSha1": "a39991b37d1422050ed7c18fd675bb58e7f46fc6",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/07a8f1520237aab5994d444c92346ff5.webp",
       "published": "2025-12-22",
@@ -931,7 +960,8 @@
         "url": "https://penpot.github.io/penpot-files/Color%20palette%20kit%20-%20design%20tokens%20v1.penpot",
         "format": "penpot",
         "bytes": 3229464,
-        "gitSha1": "cf2e589dce1fc533cf3be43b0e74690ab29d6d6b"
+        "gitSha1": "cf2e589dce1fc533cf3be43b0e74690ab29d6d6b",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/4ce2713a4d2c9a0f99a2589732cb1aba.webp",
       "published": "2025-12-22",
@@ -959,7 +989,8 @@
         "url": "https://penpot.github.io/penpot-files/Community-Cards-grid-theme.penpot",
         "format": "penpot",
         "bytes": 1297377,
-        "gitSha1": "e1c9b3947c69ddfb14557349579033baf61e186f"
+        "gitSha1": "e1c9b3947c69ddfb14557349579033baf61e186f",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/dbe9befcd2482a067db514e361cda3ac.webp",
       "published": "2025-01-14",
@@ -987,7 +1018,8 @@
         "url": "https://penpot.github.io/penpot-files/community-covers.penpot",
         "format": "penpot",
         "bytes": 636761,
-        "gitSha1": "f43ffab8d3388e2b0053daf8ac1039132583b991"
+        "gitSha1": "f43ffab8d3388e2b0053daf8ac1039132583b991",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/907ca7945c88a542af37dda1b720607a.jpg",
       "published": "2025-01-14",
@@ -1016,7 +1048,8 @@
         "url": "https://penpot.github.io/penpot-files/penpot-community-wireframe.penpot",
         "format": "penpot",
         "bytes": 1800735,
-        "gitSha1": "3e41cbab08f9f0fabee949e2bea090f087d21d70"
+        "gitSha1": "3e41cbab08f9f0fabee949e2bea090f087d21d70",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/08b88889f1f02172624a006505828edc.jpg",
       "published": "2025-02-03",
@@ -1044,7 +1077,8 @@
         "url": "https://penpot.github.io/penpot-files/Company%20logos.penpot",
         "format": "penpot",
         "bytes": 3824941,
-        "gitSha1": "1899eee27418703dd39027a1f96b4ae909cdbf1c"
+        "gitSha1": "1899eee27418703dd39027a1f96b4ae909cdbf1c",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/78bd9c66376f70f100dd3ef7ae1b3ecd.webp",
       "published": "2025-01-14",
@@ -1073,7 +1107,8 @@
         "url": "https://penpot.github.io/penpot-files/CoreUI%20DesignSystem%20(DEMO).penpot",
         "format": "penpot",
         "bytes": 41729709,
-        "gitSha1": "73bcd66aec8273198bd0c3127e80125a64239a2a"
+        "gitSha1": "73bcd66aec8273198bd0c3127e80125a64239a2a",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/3247c2117471b10dc65a612076014afb.jpg",
       "published": "2026-01-12",
@@ -1097,7 +1132,8 @@
         "url": "https://penpot.github.io/penpot-files/CoreUI%20Icon%20Pack.penpot",
         "format": "penpot",
         "bytes": 20716195,
-        "gitSha1": "86895f455f5b28ce3460976ef4c8305d491b9961"
+        "gitSha1": "86895f455f5b28ce3460976ef4c8305d491b9961",
+        "container": "zip"
       },
       "cover": null,
       "published": null,
@@ -1127,7 +1163,8 @@
         "url": "https://penpot.github.io/penpot-files/CoreUI%20UI%20Kit%20v2.0%20(DEMO).penpot",
         "format": "penpot",
         "bytes": 40607672,
-        "gitSha1": "9c51a53be626aff525b674e289472b60f6000923"
+        "gitSha1": "9c51a53be626aff525b674e289472b60f6000923",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/e45c0285a6de1c9e9f808f10cceb75a9.jpg",
       "published": "2025-02-04",
@@ -1156,7 +1193,8 @@
         "url": "https://penpot.github.io/penpot-files/CSD-Matrix.penpot",
         "format": "penpot",
         "bytes": 6761,
-        "gitSha1": "cc795f7d00eb6b212e3637d64a302d7551fe3bf2"
+        "gitSha1": "cc795f7d00eb6b212e3637d64a302d7551fe3bf2",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/07c63339828dea7340e5042e345398f0.webp",
       "published": "2025-02-20",
@@ -1185,7 +1223,8 @@
         "url": "https://penpot.github.io/penpot-files/cssgg-icons.penpot",
         "format": "penpot",
         "bytes": 3007107,
-        "gitSha1": "7e3193881d490807ede21f5af5d4414196dd1805"
+        "gitSha1": "7e3193881d490807ede21f5af5d4414196dd1805",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/4ee8758d9d8464b62680acd66ebf6e6e.webp",
       "published": "2024-07-12",
@@ -1213,7 +1252,8 @@
         "url": "https://penpot.github.io/penpot-files/curriculum.penpot",
         "format": "penpot",
         "bytes": 941506,
-        "gitSha1": "d5b0329e46d4e68f398edddf080fc1d3cd3a2215"
+        "gitSha1": "d5b0329e46d4e68f398edddf080fc1d3cd3a2215",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/1f5938dd0e1dc6c2a78aa2c30c94712c.webp",
       "published": "2025-02-04",
@@ -1237,7 +1277,8 @@
         "url": "https://penpot.github.io/penpot-files/Curriculum-by-Enieber.penpot",
         "format": "penpot",
         "bytes": 324884,
-        "gitSha1": "0d2ce7239e39af57ccbc5b763e230947cf52aee6"
+        "gitSha1": "0d2ce7239e39af57ccbc5b763e230947cf52aee6",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -1265,7 +1306,8 @@
         "url": "https://penpot.github.io/penpot-files/Dashboard%20UI%20Kit%20-%20Dashboard%2C%20Free%20Admin%20Dashboard%20(Community).penpot",
         "format": "penpot",
         "bytes": 18950272,
-        "gitSha1": "41d9057e0b4ff1c0a259dac5f1f8b11edb27d9b6"
+        "gitSha1": "41d9057e0b4ff1c0a259dac5f1f8b11edb27d9b6",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/f391eec6922d08dd0edaeedf039194e4.png",
       "published": "2026-05-11",
@@ -1294,7 +1336,8 @@
         "url": "https://penpot.github.io/penpot-files/Dashboard%20UI%20Starter%20Kit.penpot",
         "format": "penpot",
         "bytes": 1774511,
-        "gitSha1": "ccb4ed7a23afac92238eef49ad168c5f12e3453d"
+        "gitSha1": "ccb4ed7a23afac92238eef49ad168c5f12e3453d",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/529a28d6c92a4939d4c49c8a2998aca5.jpg",
       "published": "2026-08-25",
@@ -1322,7 +1365,8 @@
         "url": "https://penpot.github.io/penpot-files/Data%20Visualization%20Graphs%20_%20Charts%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 4669996,
-        "gitSha1": "2c7c9a64fa27e75e1d451bfe5c81ce7d00b8f7fe"
+        "gitSha1": "2c7c9a64fa27e75e1d451bfe5c81ce7d00b8f7fe",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/809f30ea3f0bc1b1748031a2a552f55a.jpg",
       "published": "2026-06-01",
@@ -1350,7 +1394,8 @@
         "url": "https://penpot.github.io/penpot-files/Delivery%20App_UI%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 17497549,
-        "gitSha1": "2839089690e90b6173bfb6ebc7ad523d6dc4ffa0"
+        "gitSha1": "2839089690e90b6173bfb6ebc7ad523d6dc4ffa0",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/dacb53181b6c6facf365cd35f56e5934.jpg",
       "published": "2026-05-04",
@@ -1380,7 +1425,8 @@
         "url": "https://penpot.github.io/penpot-files/Tokens%20starter%20kit%20v3.penpot",
         "format": "penpot",
         "bytes": 2719694,
-        "gitSha1": "6b56d099a3b9b344d93d406dbd14d8fd4471e126"
+        "gitSha1": "6b56d099a3b9b344d93d406dbd14d8fd4471e126",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/632e53e4cfe68f1755adeba180b21265.webp",
       "published": "2025-04-01",
@@ -1404,7 +1450,8 @@
         "url": "https://penpot.github.io/penpot-files/Detachless%20UI%20kit.penpot",
         "format": "penpot",
         "bytes": 76158800,
-        "gitSha1": "e3268f6d93d2b18037ee1badf89d29115b48a0fc"
+        "gitSha1": "e3268f6d93d2b18037ee1badf89d29115b48a0fc",
+        "container": "zip"
       },
       "cover": null,
       "published": null,
@@ -1432,7 +1479,8 @@
         "url": "https://penpot.github.io/penpot-files/E-commerce%20UI%20-%20Figma%20Ecommerce%20UI%20Kit%20(Demo%20Version)%20(Community).penpot",
         "format": "penpot",
         "bytes": 60351607,
-        "gitSha1": "4027ffb31c9987336496762044067580f993339a"
+        "gitSha1": "4027ffb31c9987336496762044067580f993339a",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/3796dd9ab513a520b59201f30c859254.png",
       "published": "2026-06-16",
@@ -1462,7 +1510,8 @@
         "url": "https://penpot.github.io/penpot-files/Eisenhower%20Matrix.penpot",
         "format": "penpot",
         "bytes": 1288811,
-        "gitSha1": "95acebc78f850e43c227e33d785f77fe0a99825c"
+        "gitSha1": "95acebc78f850e43c227e33d785f77fe0a99825c",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/9a81cdd2c08d87282c21d1ea9f759330.jpg",
       "published": "2024-11-11",
@@ -1490,7 +1539,8 @@
         "url": "https://penpot.github.io/penpot-files/ElastoUI%20-%20Ecommerce%20UI%20Icons.penpot",
         "format": "penpot",
         "bytes": 868427,
-        "gitSha1": "a35ce361199722bd8476241afc1d38e0141fe0a9"
+        "gitSha1": "a35ce361199722bd8476241afc1d38e0141fe0a9",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/8e2f205f4379268850d44e0feafd7be5.jpg",
       "published": "2026-06-25",
@@ -1519,7 +1569,8 @@
         "url": "https://penpot.github.io/penpot-files/Empathy-Maps.penpot",
         "format": "penpot",
         "bytes": 546413,
-        "gitSha1": "5ed41e220005d4f3c1f2421ffc1da03930efd737"
+        "gitSha1": "5ed41e220005d4f3c1f2421ffc1da03930efd737",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/ff300d69b997c1d4500a513802272f46.jpg",
       "published": "2021-10-29",
@@ -1549,7 +1600,8 @@
         "url": "https://penpot.github.io/penpot-files/Equalizer%20music%20app.penpot",
         "format": "penpot",
         "bytes": 33719855,
-        "gitSha1": "f8ed3fefe5db4c9eaefa9722505b3e3f22667d89"
+        "gitSha1": "f8ed3fefe5db4c9eaefa9722505b3e3f22667d89",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/329b871005c4c1a9aac1d6065429f661.png",
       "published": "2025-11-13",
@@ -1577,7 +1629,8 @@
         "url": "https://penpot.github.io/penpot-files/Essential%20UI%20-%20Figma%20Ui%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 5441296,
-        "gitSha1": "043fd2eaf4a6d002a45a0df6cf98a67cbae0f55b"
+        "gitSha1": "043fd2eaf4a6d002a45a0df6cf98a67cbae0f55b",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/76dc96a50bee2a60a75f0bf8fcc832e9.png",
       "published": "2026-06-08",
@@ -1606,7 +1659,8 @@
         "url": "https://penpot.github.io/penpot-files/feather-icons.penpot",
         "format": "penpot",
         "bytes": 143229,
-        "gitSha1": "6bcd1c529e5e98c56ac3d3f70b9cb1b1cc06894d"
+        "gitSha1": "6bcd1c529e5e98c56ac3d3f70b9cb1b1cc06894d",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/e77edc0c8e54283eb879386788ba6423.webp",
       "published": "2026-08-25",
@@ -1634,7 +1688,8 @@
         "url": "https://penpot.github.io/penpot-files/Firefox%20browser%20mockup.penpot",
         "format": "penpot",
         "bytes": 851407,
-        "gitSha1": "94161bcc1671e6c13d71d7c3a8c12fbf71ab10bd"
+        "gitSha1": "94161bcc1671e6c13d71d7c3a8c12fbf71ab10bd",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/a4b53382f01ce9da93e7d575e39b61c8.jpg",
       "published": "2025-01-15",
@@ -1662,7 +1717,8 @@
         "url": "https://penpot.github.io/penpot-files/Flex%20Layout%20Playground%20v2.0.penpot",
         "format": "penpot",
         "bytes": 9621943,
-        "gitSha1": "312444f74d902deb995438c8eb4b8e2421e32085"
+        "gitSha1": "312444f74d902deb995438c8eb4b8e2421e32085",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/ba09a30291c08d730d7f929a59ea2caf.jpg",
       "published": "2024-07-10",
@@ -1686,7 +1742,8 @@
         "url": "https://penpot.github.io/penpot-files/Flex%20Layout%20Playground.penpot",
         "format": "penpot",
         "bytes": 744510,
-        "gitSha1": "e81b524cfd22c6c5d142bad5513ed32bda2a33da"
+        "gitSha1": "e81b524cfd22c6c5d142bad5513ed32bda2a33da",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -1718,7 +1775,8 @@
         "url": "https://penpot.github.io/penpot-files/FontAwesome.penpot",
         "format": "penpot",
         "bytes": 1634447,
-        "gitSha1": "dc7eb75265bf782287dd714a07284d9a27e000f5"
+        "gitSha1": "dc7eb75265bf782287dd714a07284d9a27e000f5",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/106c149a4a6ad4138e5dcbbd4ac82f88.webp",
       "published": "2026-08-25",
@@ -1746,7 +1804,8 @@
         "url": "https://penpot.github.io/penpot-files/Food%20delivery%20app%20Ui%20kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 22295430,
-        "gitSha1": "6d925667f1882d9c2a9bb41cf412a3cb7698d076"
+        "gitSha1": "6d925667f1882d9c2a9bb41cf412a3cb7698d076",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/915748e58dec1aa37b9918ce1d772cde.png",
       "published": "2026-05-03",
@@ -1775,7 +1834,8 @@
         "url": "https://penpot.github.io/penpot-files/Web3%20IconSet.penpot",
         "format": "penpot",
         "bytes": 6448224,
-        "gitSha1": "1c4df61c2da4818d424e1050b951202cd825ac32"
+        "gitSha1": "1c4df61c2da4818d424e1050b951202cd825ac32",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/215bc014d8ac83237f505630452ce5ce.webp",
       "published": "2026-08-25",
@@ -1804,7 +1864,8 @@
         "url": "https://penpot.github.io/penpot-files/GigHub%20-%20Locofy%20Sample%20Project.penpot",
         "format": "penpot",
         "bytes": 57234306,
-        "gitSha1": "71c05b4e1695b5757ecce0f82b89e47bfc24eab6"
+        "gitSha1": "71c05b4e1695b5757ecce0f82b89e47bfc24eab6",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/053fb7eaea1c109cd93afec386a7861b.png",
       "published": "2025-07-08",
@@ -1837,7 +1898,8 @@
         "url": "https://penpot.github.io/penpot-files/GNOME-Components.penpot",
         "format": "penpot",
         "bytes": 658743,
-        "gitSha1": "7a810955e240dd372341944407a8e2886f7fe490"
+        "gitSha1": "7a810955e240dd372341944407a8e2886f7fe490",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/179d532ecf3726412033cc053edad9f4.webp",
       "published": "2024-08-04",
@@ -1865,7 +1927,8 @@
         "url": "https://penpot.github.io/penpot-files/Google%20Maps%20UI%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 5577744,
-        "gitSha1": "6715ade0d5aef6a4aaedd2f7aaff428884c914d6"
+        "gitSha1": "6715ade0d5aef6a4aaedd2f7aaff428884c914d6",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/ad7f88aaadc6e053f1f6c95316e7be8f.jpg",
       "published": "2026-05-11",
@@ -1893,7 +1956,8 @@
         "url": "https://penpot.github.io/penpot-files/Gopher-illustrations.penpot",
         "format": "penpot",
         "bytes": 16967869,
-        "gitSha1": "1bf054c41afe95c4d165838b98f2399a1e16dd98"
+        "gitSha1": "1bf054c41afe95c4d165838b98f2399a1e16dd98",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/63b2c8dd8d0953d3d23bacbdbeafd230.jpg",
       "published": "2025-01-14",
@@ -1921,7 +1985,8 @@
         "url": "https://penpot.github.io/penpot-files/Gopher%20illustrations%20v2.penpot",
         "format": "penpot",
         "bytes": 22249894,
-        "gitSha1": "31c082456f5786f9d4baffe21bd4ed500cfefd02"
+        "gitSha1": "31c082456f5786f9d4baffe21bd4ed500cfefd02",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/84643368f19d6542187b9f32cc96bfce.jpg",
       "published": "2024-10-28",
@@ -1949,7 +2014,8 @@
         "url": "https://penpot.github.io/penpot-files/Grid%20layout%20playground.penpot",
         "format": "penpot",
         "bytes": 5954656,
-        "gitSha1": "837f5927143ca04f7906ade5ce9e8ab744f1a9c9"
+        "gitSha1": "837f5927143ca04f7906ade5ce9e8ab744f1a9c9",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/17323e47555a3582118c423aac6f47a3.webp",
       "published": "2024-08-15",
@@ -1978,7 +2044,8 @@
         "url": "https://penpot.github.io/penpot-files/hand-made-icons-by-cocomaterial.penpot",
         "format": "penpot",
         "bytes": 4241444,
-        "gitSha1": "1974b095eb699d7be5bbb15f3fa8e53101ca5761"
+        "gitSha1": "1974b095eb699d7be5bbb15f3fa8e53101ca5761",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/1db38cdbc8d83df76d24638532eff832.png",
       "published": "2025-01-17",
@@ -2007,7 +2074,8 @@
         "url": "https://penpot.github.io/penpot-files/Heroicons.penpot",
         "format": "penpot",
         "bytes": 648360,
-        "gitSha1": "979b63d499a227f28de24b08ca8773fca8d95f62"
+        "gitSha1": "979b63d499a227f28de24b08ca8773fca8d95f62",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/992f69977a42dec6583578d54de96637.webp",
       "published": "2026-08-25",
@@ -2035,7 +2103,8 @@
         "url": "https://penpot.github.io/penpot-files/how-to-create-a-flyer.penpot",
         "format": "penpot",
         "bytes": 30616474,
-        "gitSha1": "7f93d8bd24ba5ac012c9d5a1e085740c9cd4fd3f"
+        "gitSha1": "7f93d8bd24ba5ac012c9d5a1e085740c9cd4fd3f",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/8883c639390e3ef0f5b17b17d7383101.jpg",
       "published": "2025-07-03",
@@ -2064,7 +2133,8 @@
         "url": "https://penpot.github.io/penpot-files/Iconoir.penpot",
         "format": "penpot",
         "bytes": 3010643,
-        "gitSha1": "abb3d915f6f324b7405023bf621f997c66dac9c6"
+        "gitSha1": "abb3d915f6f324b7405023bf621f997c66dac9c6",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/779dcf8511de95070c528d3b43e75b1b.webp",
       "published": "2026-08-25",
@@ -2088,7 +2158,8 @@
         "url": "https://penpot.github.io/penpot-files/Idraaak%20Privacy%20UI%20Kit.penpot",
         "format": "penpot",
         "bytes": 450950,
-        "gitSha1": "644c062b5e26bff89af597196ff53721ad92ef36"
+        "gitSha1": "644c062b5e26bff89af597196ff53721ad92ef36",
+        "container": "zip"
       },
       "cover": null,
       "published": null,
@@ -2138,7 +2209,8 @@
         "url": "https://penpot.github.io/penpot-files/Interactive-music-app.penpot",
         "format": "penpot",
         "bytes": 7882797,
-        "gitSha1": "5efc1eb5445cefc69c8df2647bb2d818995dd81e"
+        "gitSha1": "5efc1eb5445cefc69c8df2647bb2d818995dd81e",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/23fe0bcbe5c8d610b2ee3fb506b1f63e.jpg",
       "published": "2023-05-03",
@@ -2166,7 +2238,8 @@
         "url": "https://penpot.github.io/penpot-files/iOS%20icon%20template.penpot",
         "format": "penpot",
         "bytes": 74617,
-        "gitSha1": "2bdf05275dc7e1e61acc059c1cc18ece627abfe0"
+        "gitSha1": "2bdf05275dc7e1e61acc059c1cc18ece627abfe0",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/dc02d95345520e87ee485914131477fc.jpg",
       "published": "2025-10-23",
@@ -2194,7 +2267,8 @@
         "url": "https://penpot.github.io/penpot-files/Just%20Another%20Project%20Starter%20Template.penpot",
         "format": "penpot",
         "bytes": 196814,
-        "gitSha1": "f46eb64b90d43b6ae8366e09ae06a3456d39285c"
+        "gitSha1": "f46eb64b90d43b6ae8366e09ae06a3456d39285c",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/a41efb0dc5218d02b811ed388b9aa161.webp",
       "published": "2025-01-04",
@@ -2222,7 +2296,8 @@
         "url": "https://penpot.github.io/penpot-files/Just%20Another%20Resume%20Template.penpot",
         "format": "penpot",
         "bytes": 569379,
-        "gitSha1": "2e7d5fa7301211f188f701b9847e34bf57e25044"
+        "gitSha1": "2e7d5fa7301211f188f701b9847e34bf57e25044",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/ae9a6555f37cf4367b83b4362e855244.webp",
       "published": "2025-02-05",
@@ -2252,7 +2327,8 @@
         "url": "https://penpot.github.io/penpot-files/Labyrinth%20UI-FREE-v1.0.penpot",
         "format": "penpot",
         "bytes": 62839458,
-        "gitSha1": "785ebc869a6f620438470b44ae9607fbd6b39ebb"
+        "gitSha1": "785ebc869a6f620438470b44ae9607fbd6b39ebb",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/2eaa42f16e667cfd6eca225a6e857185.png",
       "published": "2025-06-18",
@@ -2280,7 +2356,8 @@
         "url": "https://penpot.github.io/penpot-files/Lean-UX-Canvas.penpot",
         "format": "penpot",
         "bytes": 32089,
-        "gitSha1": "0a36d9051710db47ec0e3fdc223c1388928c1eb8"
+        "gitSha1": "0a36d9051710db47ec0e3fdc223c1388928c1eb8",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/b9a119b222b82731a41e57cdec7820b9.jpg",
       "published": "2022-07-06",
@@ -2309,7 +2386,8 @@
         "url": "https://penpot.github.io/penpot-files/Localhost%20-%20Locofy%20Sample%20Project%20Demo.penpot",
         "format": "penpot",
         "bytes": 39695190,
-        "gitSha1": "a87a7ec84ff3a53981bdd27859ca3baffee7f33c"
+        "gitSha1": "a87a7ec84ff3a53981bdd27859ca3baffee7f33c",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/e8da52a86585cf59aed801e5edf278dd.png",
       "published": "2025-07-08",
@@ -2338,7 +2416,8 @@
         "url": "https://penpot.github.io/penpot-files/Lucide-icons.penpot",
         "format": "penpot",
         "bytes": 1886654,
-        "gitSha1": "79590077a369daa3fbfb0dd138b70551fe2a2c68"
+        "gitSha1": "79590077a369daa3fbfb0dd138b70551fe2a2c68",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/4c7a7db7b533e654e03c7e6e25f9a20c.webp",
       "published": "2024-02-13",
@@ -2362,7 +2441,8 @@
         "url": "https://penpot.github.io/penpot-files/lunarness-accessory-measurement-closure-kit-interactive.penpot",
         "format": "penpot",
         "bytes": 712928,
-        "gitSha1": "cd39bfe8d0d536cac9f324b590eaf34d42aa5d8e"
+        "gitSha1": "cd39bfe8d0d536cac9f324b590eaf34d42aa5d8e",
+        "container": "zip"
       },
       "cover": null,
       "published": null,
@@ -2391,7 +2471,8 @@
         "url": "https://penpot.github.io/penpot-files/Mastodon%20Social%20App.penpot",
         "format": "penpot",
         "bytes": 1123910,
-        "gitSha1": "74a50236208945154cbce0f8902a66006bbf3360"
+        "gitSha1": "74a50236208945154cbce0f8902a66006bbf3360",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/a285dbc380514e116634f6aa35019971.webp",
       "published": "2024-08-08",
@@ -2415,7 +2496,8 @@
         "url": "https://penpot.github.io/penpot-files/Material%203%20Design%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 134,
-        "gitSha1": "711f5f6d9a9fa923447b35f626409972c48386c5"
+        "gitSha1": "711f5f6d9a9fa923447b35f626409972c48386c5",
+        "container": "lfs-pointer"
       },
       "cover": null,
       "published": null,
@@ -2439,7 +2521,8 @@
         "url": "https://penpot.github.io/penpot-files/Material%203%20Mobile%20Viewports.penpot",
         "format": "penpot",
         "bytes": 524984,
-        "gitSha1": "25efabb362654fcf5e70aea6da2696785b101e15"
+        "gitSha1": "25efabb362654fcf5e70aea6da2696785b101e15",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -2469,7 +2552,8 @@
         "url": "https://penpot.github.io/penpot-files/Material%20Design%203.penpot",
         "format": "penpot",
         "bytes": 17142266,
-        "gitSha1": "b3ff8e681889729bc6e8ad59b92aea93b459cd42"
+        "gitSha1": "b3ff8e681889729bc6e8ad59b92aea93b459cd42",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/db5204cdbe0f33d822aa647aa1837564.jpg",
       "published": "2022-03-22",
@@ -2502,7 +2586,8 @@
         "url": "https://penpot.github.io/penpot-files/Material-Design-Kit.penpot",
         "format": "penpot",
         "bytes": 1615391,
-        "gitSha1": "405adc43224d6906436e9b63cd932a2d33c13979"
+        "gitSha1": "405adc43224d6906436e9b63cd932a2d33c13979",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/63440216b7ae021af90127187fda4596.jpg",
       "published": "2026-08-25",
@@ -2534,7 +2619,8 @@
         "url": "https://penpot.github.io/penpot-files/Material-Design-Icons.penpot",
         "format": "penpot",
         "bytes": 28469963,
-        "gitSha1": "bfc0752558683627af891758e2f2b77f2cb9da53"
+        "gitSha1": "bfc0752558683627af891758e2f2b77f2cb9da53",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/b3f8666172c0690bad96b81f14450331.jpg",
       "published": "2025-02-04",
@@ -2566,7 +2652,8 @@
         "url": "https://penpot.github.io/penpot-files/Material-Design-Icons-Light.penpot",
         "format": "penpot",
         "bytes": 250541,
-        "gitSha1": "d92638965b43c1cf9a9b7f55192c83ad5ac949cf"
+        "gitSha1": "d92638965b43c1cf9a9b7f55192c83ad5ac949cf",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/74d862821a2fd3aa7a040f5d85d8d71e.jpg",
       "published": "2026-08-25",
@@ -2594,7 +2681,8 @@
         "url": "https://penpot.github.io/penpot-files/Design%20tokens%20%2B%20math%20functions.penpot",
         "format": "penpot",
         "bytes": 949659,
-        "gitSha1": "70a894f8c65a08fd3b6e9fd5fe9cd94fc05c4241"
+        "gitSha1": "70a894f8c65a08fd3b6e9fd5fe9cd94fc05c4241",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/a2cf408fd5dcaf2aced0f9bc1b0a0c93.png",
       "published": "2026-04-22",
@@ -2624,7 +2712,8 @@
         "url": "https://penpot.github.io/penpot-files/minimalist-wireframing-kit.penpot",
         "format": "penpot",
         "bytes": 8470862,
-        "gitSha1": "68b5785ac7d5baee7341b80e4fc349c190ade4bf"
+        "gitSha1": "68b5785ac7d5baee7341b80e4fc349c190ade4bf",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/f948537efa8db43815b8693da7855141.webp",
       "published": "2024-07-10",
@@ -2654,7 +2743,8 @@
         "url": "https://penpot.github.io/penpot-files/Black-%26-White-Mobile-Templates.penpot",
         "format": "penpot",
         "bytes": 4396846,
-        "gitSha1": "da6ab8d96ea0251de959b8c37660f7078c519faa"
+        "gitSha1": "da6ab8d96ea0251de959b8c37660f7078c519faa",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/b31fc99031c60d0eb13e483f47b70374.jpg",
       "published": "2024-08-14",
@@ -2682,7 +2772,8 @@
         "url": "https://penpot.github.io/penpot-files/Material-3-Mobile-Viewports.penpot",
         "format": "penpot",
         "bytes": 122952,
-        "gitSha1": "33cf8242d261ef9ca7f8799fd4cb8ef3cd492889"
+        "gitSha1": "33cf8242d261ef9ca7f8799fd4cb8ef3cd492889",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/ef86e70c05b9d47bfc6dc186cdabbc89.webp",
       "published": "2026-08-25",
@@ -2710,7 +2801,8 @@
         "url": "https://penpot.github.io/penpot-files/MONSTER%20GAME.penpot",
         "format": "penpot",
         "bytes": 15693211,
-        "gitSha1": "4490eee70494ea096a94eee4b99e01cf92e7eac0"
+        "gitSha1": "4490eee70494ea096a94eee4b99e01cf92e7eac0",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/850533a73c5927d41926361515d7ae8c.jpg",
       "published": "2024-11-25",
@@ -2734,7 +2826,8 @@
         "url": "https://penpot.github.io/penpot-files/native-export-about-fixed.penpot",
         "format": "penpot",
         "bytes": 1008610,
-        "gitSha1": "b600f200b3363630aee096707b5b47bdf37d796f"
+        "gitSha1": "b600f200b3363630aee096707b5b47bdf37d796f",
+        "container": "zip"
       },
       "cover": null,
       "published": null,
@@ -2763,7 +2856,8 @@
         "url": "https://penpot.github.io/penpot-files/Neomorphic%20Light%20UI%20kit.penpot",
         "format": "penpot",
         "bytes": 2179955,
-        "gitSha1": "0003f53896404d4b70ea81c443613d62c6553285"
+        "gitSha1": "0003f53896404d4b70ea81c443613d62c6553285",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/94498218dbf209bda2eabe4fae67023b.png",
       "published": "2025-02-04",
@@ -2793,7 +2887,8 @@
         "url": "https://penpot.github.io/penpot-files/Nextcloud%20design%20system.penpot",
         "format": "penpot",
         "bytes": 19911866,
-        "gitSha1": "84d99065f73ec2227cc17149e180d94d59e837f1"
+        "gitSha1": "84d99065f73ec2227cc17149e180d94d59e837f1",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/6336f0430f1e6777fa349ec319bb8cc6.webp",
       "published": "2026-08-25",
@@ -2822,7 +2917,8 @@
         "url": "https://penpot.github.io/penpot-files/Open%20Color%20Scheme%20(v1.9.1).penpot",
         "format": "penpot",
         "bytes": 13776,
-        "gitSha1": "74a3ba6b093a6f5c0901d14a80bf749c923f99fe"
+        "gitSha1": "74a3ba6b093a6f5c0901d14a80bf749c923f99fe",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/fabfc46d753b29eb4926af8bf8a6a26f.webp",
       "published": "2026-08-25",
@@ -2850,7 +2946,8 @@
         "url": "https://penpot.github.io/penpot-files/OSS-Product%20management-processes.penpot",
         "format": "penpot",
         "bytes": 8619324,
-        "gitSha1": "37dab6ca283105c9aae34a9bb2b4ab5d0eda1234"
+        "gitSha1": "37dab6ca283105c9aae34a9bb2b4ab5d0eda1234",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/c54e386970fc45adce6153f1e52f4076.webp",
       "published": "2024-04-08",
@@ -2874,7 +2971,8 @@
         "url": "https://penpot.github.io/penpot-files/Penpot%20-%20Design%20System%20v2.1.penpot",
         "format": "penpot",
         "bytes": 14175587,
-        "gitSha1": "070758f38af8c47d81a71b075500e4755990af3a"
+        "gitSha1": "070758f38af8c47d81a71b075500e4755990af3a",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -2903,7 +3001,8 @@
         "url": "https://penpot.github.io/penpot-files/Pencil-Penpot-Design-System.penpot",
         "format": "penpot",
         "bytes": 37563315,
-        "gitSha1": "273d573a697f8b69f6ab0572350d5d35eb3823c5"
+        "gitSha1": "273d573a697f8b69f6ab0572350d5d35eb3823c5",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/8c955966e002fd96171fa26f0820f325.png",
       "published": "2024-11-26",
@@ -2927,7 +3026,8 @@
         "url": "https://penpot.github.io/penpot-files/Penpot%20slides%20template.penpot",
         "format": "penpot",
         "bytes": 3975728,
-        "gitSha1": "8ea0058730b8109ac109395d4198a6af39168bee"
+        "gitSha1": "8ea0058730b8109ac109395d4198a6af39168bee",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -2951,7 +3051,8 @@
         "url": "https://penpot.github.io/penpot-files/penpot-app.penpot",
         "format": "penpot",
         "bytes": 15070151,
-        "gitSha1": "8935875e55946c02badb8319a47d3827880f8de5"
+        "gitSha1": "8935875e55946c02badb8319a47d3827880f8de5",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -2975,7 +3076,8 @@
         "url": "https://penpot.github.io/penpot-files/Penpot-Design-system.penpot",
         "format": "penpot",
         "bytes": 5814845,
-        "gitSha1": "5156ea916b0e4837bbfa1d2939cb8935da770131"
+        "gitSha1": "5156ea916b0e4837bbfa1d2939cb8935da770131",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -3004,7 +3106,8 @@
         "url": "https://penpot.github.io/penpot-files/Phosphor%20Icons.penpot",
         "format": "penpot",
         "bytes": 37323227,
-        "gitSha1": "2cab3b2f7e585bb5269ee2fe1047d4c54b6615a3"
+        "gitSha1": "2cab3b2f7e585bb5269ee2fe1047d4c54b6615a3",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/4a0e1ade29d68ae968dfa472c80b8ee1.jpg",
       "published": "2024-11-13",
@@ -3033,7 +3136,8 @@
         "url": "https://penpot.github.io/penpot-files/Plants-app.penpot",
         "format": "penpot",
         "bytes": 8500061,
-        "gitSha1": "dc9db0dc652cd1a067cba8e400401170af445366"
+        "gitSha1": "dc9db0dc652cd1a067cba8e400401170af445366",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/3e9e6ecd1a9b5d9d75d2c3fdb8ab2e85.jpg",
       "published": "2022-08-03",
@@ -3057,7 +3161,8 @@
         "url": "https://penpot.github.io/penpot-files/Playground%20Grid%20Layout.penpot",
         "format": "penpot",
         "bytes": 6573046,
-        "gitSha1": "6b0dfb90862d91a24a92f028f2b6ab17a4f316f2"
+        "gitSha1": "6b0dfb90862d91a24a92f028f2b6ab17a4f316f2",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -3086,7 +3191,8 @@
         "url": "https://penpot.github.io/penpot-files/Podcast%20app.penpot",
         "format": "penpot",
         "bytes": 6043231,
-        "gitSha1": "3cff3eb382ce780bfe05b5c928525b743028d549"
+        "gitSha1": "3cff3eb382ce780bfe05b5c928525b743028d549",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/9ececfb039dd9c6f61449c26014debfb.webp",
       "published": "2026-08-25",
@@ -3115,7 +3221,8 @@
         "url": "https://penpot.github.io/penpot-files/PrimeIcons.penpot",
         "format": "penpot",
         "bytes": 1540105,
-        "gitSha1": "3933731f47c471debf85dd69613282df4b25f16b"
+        "gitSha1": "3933731f47c471debf85dd69613282df4b25f16b",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/844f8f11d0de7d215a03bfcccaf45c6e.webp",
       "published": "2024-08-09",
@@ -3143,7 +3250,8 @@
         "url": "https://penpot.github.io/penpot-files/Prototype%20examples%20v1.2.penpot",
         "format": "penpot",
         "bytes": 21609752,
-        "gitSha1": "bce11471c741bf5654bfdcef3409d21c67c83c49"
+        "gitSha1": "bce11471c741bf5654bfdcef3409d21c67c83c49",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/9ba149b2e2a1136900791ed2d525cf9b.jpg",
       "published": "2024-08-15",
@@ -3167,7 +3275,8 @@
         "url": "https://penpot.github.io/penpot-files/Prototype%20examples%20v1.1.penpot",
         "format": "penpot",
         "bytes": 19702698,
-        "gitSha1": "b6908caf391b6b9d75cb996c8f2b6c6b205f0c18"
+        "gitSha1": "b6908caf391b6b9d75cb996c8f2b6c6b205f0c18",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -3191,7 +3300,8 @@
         "url": "https://penpot.github.io/penpot-files/prototype-examples.penpot",
         "format": "penpot",
         "bytes": 17520313,
-        "gitSha1": "a59ebed111d482eff86643bad3e1479c6df77cb8"
+        "gitSha1": "a59ebed111d482eff86643bad3e1479c6df77cb8",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -3219,7 +3329,8 @@
         "url": "https://penpot.github.io/penpot-files/Qedra%20Icons.penpot",
         "format": "penpot",
         "bytes": 3240609,
-        "gitSha1": "afa08514eb682b2e213e82ec4096e4a1d8f662d2"
+        "gitSha1": "afa08514eb682b2e213e82ec4096e4a1d8f662d2",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/0d45edb15ca9cacbc7a143c297d01e01.png",
       "published": "2025-07-28",
@@ -3249,7 +3360,8 @@
         "url": "https://penpot.github.io/penpot-files/radix-ui-icons.penpot",
         "format": "penpot",
         "bytes": 835684,
-        "gitSha1": "460135a27e48e5cd3ad7ec6a9a4e3487df0ac49d"
+        "gitSha1": "460135a27e48e5cd3ad7ec6a9a4e3487df0ac49d",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/a228e6a8a70b6b9347b2d429be7ccba2.webp",
       "published": "2026-08-25",
@@ -3281,7 +3393,8 @@
         "url": "https://penpot.github.io/penpot-files/SaaS%20Dashboard%20UI%20Kit.penpot",
         "format": "penpot",
         "bytes": 20400695,
-        "gitSha1": "6652e4b0498648c717f2ee962b1b781e15d9f56f"
+        "gitSha1": "6652e4b0498648c717f2ee962b1b781e15d9f56f",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/f8043f429bc1a26b0bf2f629ccdf2377.png",
       "published": "2025-08-14",
@@ -3309,7 +3422,8 @@
         "url": "https://penpot.github.io/penpot-files/Safari%20iOS%2015.penpot",
         "format": "penpot",
         "bytes": 1429332,
-        "gitSha1": "ec6a16d58d5510f206220cf4796fe162c344bc8a"
+        "gitSha1": "ec6a16d58d5510f206220cf4796fe162c344bc8a",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/2f38bc7996c09fd08244b29df0493924.webp",
       "published": "2026-08-25",
@@ -3338,7 +3452,8 @@
         "url": "https://penpot.github.io/penpot-files/sales-dashboard-example-template.penpot",
         "format": "penpot",
         "bytes": 10298430,
-        "gitSha1": "f8264b90afefe79fe651e5abf72088ad5c73b8a9"
+        "gitSha1": "f8264b90afefe79fe651e5abf72088ad5c73b8a9",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/bb54c2987ba1a422e16ea3880ba02170.webp",
       "published": "2025-02-04",
@@ -3387,7 +3502,8 @@
         "url": "https://penpot.github.io/penpot-files/Simple%20demo%20-%20Typography%20tokens.penpot",
         "format": "penpot",
         "bytes": 10601613,
-        "gitSha1": "3e9c9ddb715bcb8a7ab77fa5480e80052bc3be39"
+        "gitSha1": "3e9c9ddb715bcb8a7ab77fa5480e80052bc3be39",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/21dc228b4b20d30cf14d2d97a1d4947f.png",
       "published": "2026-01-14",
@@ -3417,7 +3533,8 @@
         "url": "https://penpot.github.io/penpot-files/smartwatch-ui.penpot",
         "format": "penpot",
         "bytes": 3438998,
-        "gitSha1": "742930f508df2972a6e35b2e44d1a77fb9a3f592"
+        "gitSha1": "742930f508df2972a6e35b2e44d1a77fb9a3f592",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/720daf4cdc2df6d4cf480312e10322ad.jpg",
       "published": "2022-10-22",
@@ -3447,7 +3564,8 @@
         "url": "https://penpot.github.io/penpot-files/styleui.penpot",
         "format": "penpot",
         "bytes": 12624595,
-        "gitSha1": "a34bb5ee8b7840a1b9b8878089346e0ed542ab14"
+        "gitSha1": "a34bb5ee8b7840a1b9b8878089346e0ed542ab14",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/94ef05f20a46a0a277aac32690c2f3f5.webp",
       "published": "2023-07-05",
@@ -3477,7 +3595,8 @@
         "url": "https://penpot.github.io/penpot-files/tailwind-kit.penpot",
         "format": "penpot",
         "bytes": 32942,
-        "gitSha1": "f0591f9cfcacee14e024a1f5e788f6fbc551abe5"
+        "gitSha1": "f0591f9cfcacee14e024a1f5e788f6fbc551abe5",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/8ee46f24b3037a8caf3619c6da2b3ab5.webp",
       "published": "2026-08-25",
@@ -3506,7 +3625,8 @@
         "url": "https://penpot.github.io/penpot-files/TailwindCSS%20Design%20Tokens%20-%20Helionox.penpot",
         "format": "penpot",
         "bytes": 5253598,
-        "gitSha1": "aa4d27b426b46a7403eac8e6cf157109d079a711"
+        "gitSha1": "aa4d27b426b46a7403eac8e6cf157109d079a711",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/b3aa38a9bb48740a257784e9d635fa9c.png",
       "published": "2025-11-12",
@@ -3534,7 +3654,8 @@
         "url": "https://penpot.github.io/penpot-files/Template%20Source%20v1.0.0.penpot",
         "format": "penpot",
         "bytes": 12278115,
-        "gitSha1": "c2afcc2dc71da4d7f12167baaf5beefde72a1d22"
+        "gitSha1": "c2afcc2dc71da4d7f12167baaf5beefde72a1d22",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/0d26fd1b1690eab2cbbe9a62419f3c05.png",
       "published": "2026-08-31",
@@ -3563,7 +3684,8 @@
         "url": "https://penpot.github.io/penpot-files/Original%20Full%20Website%20Design%20Process.penpot",
         "format": "penpot",
         "bytes": 21375424,
-        "gitSha1": "f32d1d1f4902c84f8654446d5240de5029c6bf76"
+        "gitSha1": "f32d1d1f4902c84f8654446d5240de5029c6bf76",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/8b9e6628bfcea8b0ae7df8baae6d4b3a.png",
       "published": "2025-07-29",
@@ -3587,7 +3709,8 @@
         "url": "https://penpot.github.io/penpot-files/Tokens%20starter%20kit.penpot",
         "format": "penpot",
         "bytes": 3396239,
-        "gitSha1": "c47a35c598a1e77fd3f4e0f588650ad99e55f2dc"
+        "gitSha1": "c47a35c598a1e77fd3f4e0f588650ad99e55f2dc",
+        "container": "zip"
       },
       "cover": null,
       "published": null,
@@ -3616,7 +3739,8 @@
         "url": "https://penpot.github.io/penpot-files/Travel%20A2B%20-%20Locofy%20Sample%20project.penpot",
         "format": "penpot",
         "bytes": 35937582,
-        "gitSha1": "6cb19617376d341f14818c5d542575d7348f331f"
+        "gitSha1": "6cb19617376d341f14818c5d542575d7348f331f",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/5cdf1db535569612e91d0dfc56bb9557.png",
       "published": "2025-07-08",
@@ -3644,7 +3768,8 @@
         "url": "https://penpot.github.io/penpot-files/tutorial-for-beginners%20v.2.0.penpot",
         "format": "penpot",
         "bytes": 9253981,
-        "gitSha1": "6a47216f8417ab0ed7892c317e51212489b34a50"
+        "gitSha1": "6a47216f8417ab0ed7892c317e51212489b34a50",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/29b7919ac1cac9ca8c83947331bc3f73.jpg",
       "published": "2023-10-05",
@@ -3668,7 +3793,8 @@
         "url": "https://penpot.github.io/penpot-files/tutorial-for-beginners.penpot",
         "format": "penpot",
         "bytes": 765000,
-        "gitSha1": "060bf941ac8531fb58ba01a2adb0def9cae43d67"
+        "gitSha1": "060bf941ac8531fb58ba01a2adb0def9cae43d67",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -3697,7 +3823,8 @@
         "url": "https://penpot.github.io/penpot-files/Type%20Scale%20Playground(1).penpot",
         "format": "penpot",
         "bytes": 1921167,
-        "gitSha1": "37706db1f867a2358d5d7d92669391fae74c4509"
+        "gitSha1": "37706db1f867a2358d5d7d92669391fae74c4509",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/975805298dae5ab4a8646cf91e10aa10.jpg",
       "published": "2026-01-08",
@@ -3727,7 +3854,8 @@
         "url": "https://penpot.github.io/penpot-files/Typography%20Tokens%20Starter%20Kit.penpot",
         "format": "penpot",
         "bytes": 1296413,
-        "gitSha1": "89a8f723e557d1ca2b0f7ce3577d79a01ef3e0f0"
+        "gitSha1": "89a8f723e557d1ca2b0f7ce3577d79a01ef3e0f0",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/01d6a0e9acea02761b74cee42210d3d1.png",
       "published": "2025-12-22",
@@ -3755,7 +3883,8 @@
         "url": "https://penpot.github.io/penpot-files/%40shadcn_ui%20-%20Design%20System%20(Community).penpot",
         "format": "penpot",
         "bytes": 13601606,
-        "gitSha1": "30c313938f6979efe1662521a43bee93dce9c5a5"
+        "gitSha1": "30c313938f6979efe1662521a43bee93dce9c5a5",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/0d17bb205069aa7ba30ee875e986e413.png",
       "published": "2026-05-04",
@@ -3783,7 +3912,8 @@
         "url": "https://penpot.github.io/penpot-files/AWS%20Amplify%20UI%20Kit%20(Community).penpot",
         "format": "penpot",
         "bytes": 10298852,
-        "gitSha1": "c49eb6672d3f72ff2db9694ff3f640d14ee2804f"
+        "gitSha1": "c49eb6672d3f72ff2db9694ff3f640d14ee2804f",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/b53cc382b876f3296463fde872dea583.png",
       "published": "2026-06-08",
@@ -3812,7 +3942,8 @@
         "url": "https://penpot.github.io/penpot-files/ultimate-whiteboard-kit-templates.penpot",
         "format": "penpot",
         "bytes": 4864761,
-        "gitSha1": "812244d20e8042706c28414064a8e73ddef81e88"
+        "gitSha1": "812244d20e8042706c28414064a8e73ddef81e88",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/ca11eb36d7e3ea0e37abc94091605dad.webp",
       "published": "2024-08-01",
@@ -3841,7 +3972,8 @@
         "url": "https://penpot.github.io/penpot-files/user-flow-elements.penpot",
         "format": "penpot",
         "bytes": 320372,
-        "gitSha1": "554df1540c34ab3c073461e7d39ef53414670be3"
+        "gitSha1": "554df1540c34ab3c073461e7d39ef53414670be3",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/b3f4999afa49c68b789f7f873f1b1c41.jpg",
       "published": "2025-02-04",
@@ -3869,7 +4001,8 @@
         "url": "https://penpot.github.io/penpot-files/Persona%20template.penpot",
         "format": "penpot",
         "bytes": 5909090,
-        "gitSha1": "08d1ab837e4d3518373289a661fee1dc836d35d2"
+        "gitSha1": "08d1ab837e4d3518373289a661fee1dc836d35d2",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/f937f3f9849137ae9575e6f696d8a9ee.webp",
       "published": "2026-08-25",
@@ -3898,7 +4031,8 @@
         "url": "https://penpot.github.io/penpot-files/UX-Notes.penpot",
         "format": "penpot",
         "bytes": 48381,
-        "gitSha1": "6d386b3dd25f7715edf4b4a4c79f0b96f95d28d2"
+        "gitSha1": "6d386b3dd25f7715edf4b4a4c79f0b96f95d28d2",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/6935c5ca498850974c99d01d4f2e9b38.jpg",
       "published": "2022-10-03",
@@ -3927,7 +4061,8 @@
         "url": "https://penpot.github.io/penpot-files/Variant%20examples%20v1.penpot",
         "format": "penpot",
         "bytes": 6600113,
-        "gitSha1": "031266ec75acc95b6c35bf594b8d5505eb0ad2b7"
+        "gitSha1": "031266ec75acc95b6c35bf594b8d5505eb0ad2b7",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/1110b30bd37cbd639e3811f3ae06b27a.png",
       "published": "2025-09-23",
@@ -3951,7 +4086,8 @@
         "url": "https://penpot.github.io/penpot-files/Webdesign%20layouts%20Library%20(v2).penpot",
         "format": "penpot",
         "bytes": 29345708,
-        "gitSha1": "ab7476f903de167d1dcd62dd0a94fc49185b70e7"
+        "gitSha1": "ab7476f903de167d1dcd62dd0a94fc49185b70e7",
+        "container": "zip"
       },
       "cover": null,
       "published": null,
@@ -3981,7 +4117,8 @@
         "url": "https://penpot.github.io/penpot-files/Webdesign%20layouts%20Library%20(v2.1).penpot",
         "format": "penpot",
         "bytes": 14693340,
-        "gitSha1": "81552b14e220b3b028399b749fb924ec4c08f5e7"
+        "gitSha1": "81552b14e220b3b028399b749fb924ec4c08f5e7",
+        "container": "zip"
       },
       "cover": "https://site-assets.plasmic.app/e87a9680b5e5db2701870b0f11f63bbd.jpg",
       "published": "2025-10-06",
@@ -4005,7 +4142,8 @@
         "url": "https://penpot.github.io/penpot-files/welcome.penpot",
         "format": "penpot",
         "bytes": 217606,
-        "gitSha1": "e541861edd507396b88b44bf59b67692e8698450"
+        "gitSha1": "e541861edd507396b88b44bf59b67692e8698450",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -4034,7 +4172,8 @@
         "url": "https://penpot.github.io/penpot-files/Whiteboarding-mapping-kit.penpot",
         "format": "penpot",
         "bytes": 1453659,
-        "gitSha1": "9acfd1b43052e178a3ffcf3c0f748ea429cd3c68"
+        "gitSha1": "9acfd1b43052e178a3ffcf3c0f748ea429cd3c68",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/e0ca6025a503b8b8992adfce5ecddd95.jpg",
       "published": "2023-06-06",
@@ -4064,7 +4203,8 @@
         "url": "https://penpot.github.io/penpot-files/Wireframing%20kit%20v1.1.penpot",
         "format": "penpot",
         "bytes": 2671550,
-        "gitSha1": "1f0510916ca8a12366e669d4fb7ef5f77306c1a1"
+        "gitSha1": "1f0510916ca8a12366e669d4fb7ef5f77306c1a1",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/082faa73cff1d49c041af68db92571e0.jpg",
       "published": "2023-12-29",
@@ -4088,7 +4228,8 @@
         "url": "https://penpot.github.io/penpot-files/wireframing-kit.penpot",
         "format": "penpot",
         "bytes": 991370,
-        "gitSha1": "3e37946e91343c42ae7209d0847afefabaafcfba"
+        "gitSha1": "3e37946e91343c42ae7209d0847afefabaafcfba",
+        "container": "binfile-v1"
       },
       "cover": null,
       "published": null,
@@ -4120,7 +4261,8 @@
         "url": "https://penpot.github.io/penpot-files/Zest%20Icons.penpot",
         "format": "penpot",
         "bytes": 767972,
-        "gitSha1": "f0b7478cd7516f7c8888d6e962e4f23f841cdb2a"
+        "gitSha1": "f0b7478cd7516f7c8888d6e962e4f23f841cdb2a",
+        "container": "binfile-v1"
       },
       "cover": "https://site-assets.plasmic.app/6100e4ffec33efa2ffb4a5d4bd8510ba.jpg",
       "published": "2025-02-04",
