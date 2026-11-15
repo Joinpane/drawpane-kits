@@ -7,7 +7,7 @@
     "penpot": "node scripts/penpot-hub.mjs",
     "index": "node scripts/build-index.mjs",
     "validate": "node scripts/validate-kits.mjs && node scripts/build-index.mjs --check",
-    "test": "node --test test/"
+    "test": "node --test \"test/*.test.mjs\""
   },
   "devDependencies": {
     "ajv": "8.17.1"
