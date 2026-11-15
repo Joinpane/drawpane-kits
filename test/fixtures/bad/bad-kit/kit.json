@@ -1,0 +1,31 @@
+{
+  "id": "bad-kit",
+  "name": "Example Kit",
+  "kind": "ui-kit",
+  "description": "A kit for the registry's own tests.",
+  "author": {
+    "name": "Example Author",
+    "url": "https://example.com"
+  },
+  "source": {
+    "page": "https://example.com/kit",
+    "file": "https://example.com/kit.fig"
+  },
+  "licence": {
+    "spdx": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "attribution": "Made by someone, thanks!",
+  "modified": true,
+  "file": {
+    "url": "kit.penpot",
+    "format": "penpot",
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "bytes": 7
+  },
+  "cover": "cover.png",
+  "tags": [
+    "Example"
+  ],
+  "added": "2026-11-15"
+}

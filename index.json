@@ -1,0 +1,4130 @@
+{
+  "format": 1,
+  "name": "Drawpane kits",
+  "homepage": "https://github.com/Joinpane/drawpane-kits",
+  "sources": [
+    {
+      "provider": "drawpane",
+      "name": "Drawpane kits",
+      "count": 0
+    },
+    {
+      "provider": "penpot",
+      "name": "Penpot's libraries and templates hub",
+      "page": "https://penpot.app/penpothub/libraries-templates",
+      "repository": "https://github.com/penpot/penpot-files",
+      "count": 147
+    }
+  ],
+  "kits": [
+    {
+      "id": "penpot-beta-test-variants-sample",
+      "name": "[Beta Test] Variants sample",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/%5BBeta%20Test%5D%20Variants%20sample.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/%5BBeta%20Test%5D%20Variants%20sample.penpot",
+        "format": "penpot",
+        "bytes": 821295,
+        "gitSha1": "58b28453a2ad1f18a501fb7f6d9111012fd86d78"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-100-card-design-templates-ui-kit-community",
+      "name": "100 card design templates UI kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Card is one of the popular modular UI patterns that work well across a variety of screens and window sizes. Hope this pack of 100 card design templates to inspire your next design projects. - Auto-layout - customizable with text, colors, images, icons... - 50 vertical designs - 50 horizontal designs Hope you all enjoy and have fun with it! Thanks for downloading the file :) Please feel free to remix this with your own designs and add more explorations.Please tag me if you would like to do a remix. Thank you ^_^! 👋 Come say to me on Twitter - Yan",
+      "author": {
+        "name": "Yan Liu Design"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/100-card-design-templates-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/100%20card%20design%20templates%20UI%20kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/100%20card%20design%20templates%20UI%20kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 2640161,
+        "gitSha1": "9fdd172ad581d22f091f36c0da1f3de57ddc26a6"
+      },
+      "cover": "https://site-assets.plasmic.app/8a17f9ac765eda59ec407bbc819c217e.png",
+      "published": "2026-06-05",
+      "updated": "2026-06-05"
+    },
+    {
+      "id": "penpot-50-mobile-bottom-navigation-bar-community",
+      "name": "50 Mobile Bottom Navigation Bar",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Dive into the ultimate collection of 50 Mobile Bottom Navigation Bars for your next app project!&nbsp; This resource offers an amazing selection of navigation bars, including both dark and light mode variants, to suit every design preference.&nbsp; Featured: - Light Mode - Dark Mode - +Variants&nbsp; - +Components - +iOS & Android friendly&nbsp; If you find the resource helpful, don't forget to leave a review or share your feedback. Follow Me for More UI Resources Need assistance with a design project? Feel free to reach out for collaboration opportunities or project inquiries. Thank you for your support!&nbsp; Support: info@jamesadeshina.com Happy Designing&nbsp;",
+      "author": {
+        "name": "James Adeshina"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/50-mobile-bottom-navigation-bar",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/50%20Mobile%20Bottom%20Navigation%20Bar%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/50%20Mobile%20Bottom%20Navigation%20Bar%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 33456037,
+        "gitSha1": "ce3b48f6869bc5868b01d7e065e7b1762defe820"
+      },
+      "cover": "https://site-assets.plasmic.app/ac000000e3d28e9acf6f5c853ca66413.png",
+      "published": "2026-06-01",
+      "updated": "2026-06-01"
+    },
+    {
+      "id": "penpot-50-social-media-icons",
+      "name": "50+ Social Media Icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "50+ Social Media Icons",
+      "author": {
+        "name": "Victor Onazi"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/social-media-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/50-Social-media-Icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/50-Social-media-Icons.penpot",
+        "format": "penpot",
+        "bytes": 796287,
+        "gitSha1": "7105be88d8cfccea47a91c211052b775a72af162"
+      },
+      "cover": "https://site-assets.plasmic.app/2b0e5af3336303fa923fbdb5d0b71a17.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-59-charts-ui-responsive-components-chart-js-chartist-apex-charts-and-recharts-community",
+      "name": "59 Charts UI Responsive Components",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Quickly build dashboards that developers can easily program with real chart templates! Choose from templates from Chartis, Chartist-js, Recharts or Apex Charts, as the world's most used chart Libs. Here you can: -Copy the editable graph component. -Apply your identity to the graph using the base components. -Change colors, number of data displayed, graph type, size. -Or simply open the non-componentized graphics tab and copy and paste into your project :)",
+      "author": {
+        "name": "Iago Sousa"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/59-charts-ui-responsive-components",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/59%20Charts%20UI%20Responsive%20Components%20Chart.js%20Chartist%20Apex%20Charts%20and%20Recharts%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/59%20Charts%20UI%20Responsive%20Components%20Chart.js%20Chartist%20Apex%20Charts%20and%20Recharts%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 27104315,
+        "gitSha1": "dc10e9492493e68c198cd8af47b4f87699141584"
+      },
+      "cover": "https://site-assets.plasmic.app/3bfeac2ba4aefd4cb4850776b8d9e1d7.png",
+      "published": "2026-06-08",
+      "updated": "2026-06-08"
+    },
+    {
+      "id": "penpot-accessibility-documentation-template",
+      "name": "Accessibility Documentation",
+      "provider": "penpot",
+      "kind": "library",
+      "categories": [
+        "UX",
+        "Libraries"
+      ],
+      "description": "Accessibility and interactions documentation annotation kit. ",
+      "author": {
+        "name": "Stéphanie Walter"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/accessibility-documentation",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Accessibility%20Documentation%20Template.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Accessibility%20Documentation%20Template.penpot",
+        "format": "penpot",
+        "bytes": 6427811,
+        "gitSha1": "65b5af15707d5fbdf884bfaff7707eca903a7d97"
+      },
+      "cover": "https://site-assets.plasmic.app/21ab910968fb3d2e9ab0ee4ac4a5a64e.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-hub-accessory-measurement-closure-kit-lunarness",
+      "name": "Accessory Measurement & Closure Kit — Lunarness",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": "A native editable Penpot template for accessory designers, stylists and learning resources. Three pages contain a 16:9 cover, a 12-symbol vector reference sheet and a measurement-method handoff diagram. Two native components make the reference sheet and handoff diagram reusable. Two visible source hotspots on the handoff page open the Lunarness size guide and worked sizing calculator through native click interactions. Symbols distinguish linear span, wrap path, endpoints, closure frame, tongue, adjuster, D-ring, extender links, hole pitch, alignment, method record and withheld comparisons. Original geometry and layouts are CC BY 4.0. All drawings are illustrative: no verified product dimensions, mechanical safety or compatibility claims. Fitting context: https://lunarness.com/pages/size-guide and https://lunarness.com/pages/harness-size-calculator.",
+      "author": {
+        "name": "Lunarness"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/accessory-measurement-closure-kit-lunarness",
+        "repository": null
+      },
+      "licence": null,
+      "file": null,
+      "cover": "https://site-assets.plasmic.app/c63be3570fa5b68c39da4f33f13ffba3.png",
+      "published": "2026-10-11",
+      "updated": "2026-10-11"
+    },
+    {
+      "id": "penpot-ajeen-icons",
+      "name": "Ajeen Icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set"
+      ],
+      "description": "We hope Ajeen Icons add a warm, simple touch to your projects.  If you enjoy this pack, for more free kitchen & daily life icons.  We’d love to see Ajeen in action! 🍳  — Made with care for everyday designers —",
+      "author": {
+        "name": "Muhmad Omar"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ajeen-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Ajeen%20Icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Ajeen%20Icons.penpot",
+        "format": "penpot",
+        "bytes": 3469015,
+        "gitSha1": "a58666f49b9194665217813defb311c1f4c35590"
+      },
+      "cover": "https://site-assets.plasmic.app/b44248e844c5d200212f95bba9f6b105.png",
+      "published": "2025-07-28",
+      "updated": "2025-07-28"
+    },
+    {
+      "id": "penpot-android-ios-keyboards-kit-community",
+      "name": "Android & iOS Keyboards Kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "This is a keyboard library with complete support of variants and auto-layout which you can use it for prototype and designs. Features In this library you can see: Android & iOS native keyboard Dark & Light mode Emoji keyboard Dictation mode Numeric keyboard Alphabetic Keyboard with 14 languages (English - Persian - Russian - Arabic - Dutch - German - Italian - Portuguese - Turkish...) &nbsp;",
+      "author": {
+        "name": "Mosn"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/android-and-ios-keyboards-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Android%20%26%20iOS%20Keyboards%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Android%20%26%20iOS%20Keyboards%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 35650959,
+        "gitSha1": "adbd492960ce132dea42b1fd758d38a198df8297"
+      },
+      "cover": "https://site-assets.plasmic.app/b6fbd0ffd61cce812e6b40077b0c4e7f.png",
+      "published": "2026-05-11",
+      "updated": "2026-05-11"
+    },
+    {
+      "id": "penpot-android-ui-kit-community",
+      "name": "Android UI Kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Get started designing for Android faster and easier with an introductory guide, styles, components, and system templates. Includes templates for Android system UI features: Notifications Widgets System bars and device frames Camera Bubbles and shortcuts Create your app design using Android themes and components. Leverage Android&rsquo;s unique design patterns and offerings to create a beautiful, usable, modern app. Dive into the new Android Design Guidance. Explore the Material Design system for more on creating beautiful products. Looking for icons? Try the Google Icons Library &nbsp;",
+      "author": {
+        "name": "Material Design"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/android-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Android%20UI%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Android%20UI%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 82367913,
+        "gitSha1": "4b54b66fcfab0ed22b61eb458232fed68492ed6f"
+      },
+      "cover": "https://site-assets.plasmic.app/7b499805a46d97c3a6dae8e928f3ed0e.png",
+      "published": "2026-05-04",
+      "updated": "2026-05-04"
+    },
+    {
+      "id": "penpot-ant-design-system-for-figma-free-version-community",
+      "name": "Ant Design System (Free version)",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Ant Design System is the powerful UI kit based on the most popular React UI library - Ant Design. Create well-documented products in no time. In the free version, you can discover sample components and use the customize page to learn how it works. Follow the instructions inside to experience the UI kit's potential fully.",
+      "author": {
+        "name": "Matt Wierzbicki"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ant-design-system",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Ant%20Design%20System%20for%20Figma%20(Free%20version)%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Ant%20Design%20System%20for%20Figma%20(Free%20version)%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 59077196,
+        "gitSha1": "7ef3c83fa0f951060b703f01520177ea3f8daa98"
+      },
+      "cover": "https://site-assets.plasmic.app/89dcbcae025b677b5e883614fe12f5dd.jpg",
+      "published": "2026-05-11",
+      "updated": "2026-05-11"
+    },
+    {
+      "id": "penpot-ant-design-ui-kit-lite",
+      "name": "Ant Design UI Kit Lite",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "XTech"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ant-design-ui-kit-lite",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Ant-Design-UI-Kit-Lite.penpot"
+      },
+      "licence": {
+        "text": "Part of the library file is licensed under the original license:\n\nMIT LICENSE\n\nCopyright (c) 2015-present Ant UED, https://xtech.antfin.com/\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\nLIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\nWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+        "url": "https://github.com/penpot/penpot-files/blob/main/Ant-Design-UI-Kit-Lite.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Ant-Design-UI-Kit-Lite.penpot",
+        "format": "penpot",
+        "bytes": 2736036,
+        "gitSha1": "07e93f0a6104db49be20644c0f24428a2d2e08f2"
+      },
+      "cover": "https://site-assets.plasmic.app/a2d386c3b6bfad6d8f7b0751c5aefe96.jpg",
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-antd-library",
+      "name": "Ant Design v6",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": "A faithful Ant Design v6 component library as a single native Penpot file. Every component is built as a variant set with antd-exact geometry and naming, bound to a complete design-token system that mirrors antd's own architecture (seed &rarr; map &rarr; alias &rarr; components; 12 sets / 1,524 tokens; light &middot; dark themes &times; default &middot; compact densities). The file includes a documentation page for every component plus group indexes and foundations, 502 icons from @ant-design/icons, and demo screens.",
+      "author": {
+        "name": "ViktarNovikau"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ant-design-v6",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/antd-library.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/antd-library.penpot",
+        "format": "penpot",
+        "bytes": 12314369,
+        "gitSha1": "741b6589d67e41ddb6ebb5ad26ec711b3e3ce803"
+      },
+      "cover": "https://site-assets.plasmic.app/e7d8c9fe0cf1e497aff8a060d2863011.png",
+      "published": "2026-09-27",
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "penpot-app-inventor-classificacao-de-imagens",
+      "name": "App Inventor UI Design Kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "Stephanie Campelo"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/app-inventor",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/app-inventor-classificacao-de-imagens.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/app-inventor-classificacao-de-imagens.penpot",
+        "format": "penpot",
+        "bytes": 25343064,
+        "gitSha1": "3ed7f2f9cd5e5c3034ce6eca68a501f06e90282f"
+      },
+      "cover": "https://site-assets.plasmic.app/12e1e50ab6bb288023891939d5af650e.jpg",
+      "published": "2025-01-24",
+      "updated": "2025-01-24"
+    },
+    {
+      "id": "penpot-design-systxema-v2",
+      "name": "Atomic Design",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "Systxema"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/atomic-design-systxema",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Design_Systxema_v2.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Design_Systxema_v2.penpot",
+        "format": "penpot",
+        "bytes": 15198853,
+        "gitSha1": "6cddab3aca0277fb4b9b9688ff1c17d3e89b2d8d"
+      },
+      "cover": "https://site-assets.plasmic.app/b48ea5532f390d3e5144d68a90082c27.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-avataaars-by-pablo-stanley",
+      "name": "Avataaars by Pablo Stanley",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "Mix and match avatar library. Free for commercial and personal use. ",
+      "author": {
+        "name": "candidexmedia"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/avataaars-by-pablo-stanley",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Avataaars-by-Pablo-Stanley.penpot"
+      },
+      "licence": {
+        "text": "This penpot file contains assets licences by Pablo Stanley: Free for personal and commercial use.\r\nhttps://avataaars.com/",
+        "url": "https://github.com/penpot/penpot-files/blob/main/Avataaars-by-Pablo-Stanley.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Avataaars-by-Pablo-Stanley.penpot",
+        "format": "penpot",
+        "bytes": 1760281,
+        "gitSha1": "5a2b06aa8133a19a1028bbe1c4697a74900e0364"
+      },
+      "cover": "https://site-assets.plasmic.app/098a5050b2bb30498396df227c5438a9.jpg",
+      "published": "2025-02-05",
+      "updated": "2025-02-05"
+    },
+    {
+      "id": "penpot-backstage-design-system-community",
+      "name": "Backstage Design System",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Build your own Backstage plugin with this UI kit .",
+      "author": {
+        "name": "Backstage"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/backstage-design-system",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Backstage%20Design%20System%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Backstage%20Design%20System%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 37268539,
+        "gitSha1": "066648215590ab7bce734068dff974b8f6567439"
+      },
+      "cover": "https://site-assets.plasmic.app/b9b80e7cb40467a366fa8233942cd359.png",
+      "published": "2026-06-16",
+      "updated": "2026-06-16"
+    },
+    {
+      "id": "penpot-basic-layouts-template",
+      "name": "Basic layouts template",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "This file contains a variety of common layouts used in UI design, created using grid and flex layouts.",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/basic-layouts-template",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Basic%20layouts%20template.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Basic%20layouts%20template.penpot",
+        "format": "penpot",
+        "bytes": 1459804,
+        "gitSha1": "88a98d5bdb73612480c8a935e5b9a23d59d1390b"
+      },
+      "cover": "https://site-assets.plasmic.app/d44d4b22cfc3c8288b66fedfcb1f0cff.webp",
+      "published": "2024-06-08",
+      "updated": "2024-06-08"
+    },
+    {
+      "id": "penpot-bingo",
+      "name": "Bingo - Reading challenge",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates",
+        "Planning"
+      ],
+      "description": "This year, my book club decided to do a little challenge, and I thought about a book-related bingo game. Each member of the group chose a challenge, and with that, we came up with the Reading Challenge. I thought of creating it with Penpot so that anyone else could easily make their own. Enjoy!",
+      "author": {
+        "name": "Marina Lopez"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/bingo-reading-challenge",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Bingo.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Bingo.penpot",
+        "format": "penpot",
+        "bytes": 824364,
+        "gitSha1": "684d1f78694e8c8ba5191831c180f252d54b5642"
+      },
+      "cover": "https://site-assets.plasmic.app/ec7c5274aa241da9c9ca45da9bb57d35.jpg",
+      "published": "2025-01-28",
+      "updated": "2025-01-28"
+    },
+    {
+      "id": "penpot-blenderdesignsystem-v1-0",
+      "name": "Blender Design System v1.0",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "This is the Design System actively used by the Blender design team. It includes the icons used in Blender, and adds multiple components.",
+      "author": {
+        "name": "Blender"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/blender-design-system",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/BlenderDesignSystem_v1.0.penpot"
+      },
+      "licence": {
+        "text": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\n\nhttp://creativecommons.org/licenses/by-sa/4.0/\n\nWhen attributing this work, using \"Blender Project\" is enough.",
+        "url": "https://github.com/penpot/penpot-files/blob/main/BlenderDesignSystem_v1.0.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/BlenderDesignSystem_v1.0.penpot",
+        "format": "penpot",
+        "bytes": 41831810,
+        "gitSha1": "2c945dbd1445253d0ac2cfd00ec8ca10f1fa463d"
+      },
+      "cover": "https://site-assets.plasmic.app/405efff548dcf0e79be698b3c235a4b3.png",
+      "published": "2026-06-23",
+      "updated": "2026-06-23"
+    },
+    {
+      "id": "penpot-bloba-modular-organic-shapes",
+      "name": "BLOBA – Modular Organic Shapes",
+      "provider": "penpot",
+      "kind": "library",
+      "categories": [
+        "Libraries"
+      ],
+      "description": "These assets are free to use for personal and commercial purposes. No attribution required, but credit is appreciated if shared publicly. You can use them in client projects, websites, apps, print materials, or any digital design.",
+      "author": {
+        "name": "Muhmad Omar"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/bloba-modular-organic-shapes",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/BLOBA%20%E2%80%93%20Modular%20Organic%20Shapes.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/BLOBA%20%E2%80%93%20Modular%20Organic%20Shapes.penpot",
+        "format": "penpot",
+        "bytes": 6731307,
+        "gitSha1": "f1dbe29feac9a0c9260fe817840f707c71016768"
+      },
+      "cover": "https://site-assets.plasmic.app/64d3c131e35fcabe6108b62fc2d839c8.png",
+      "published": "2025-06-24",
+      "updated": "2025-06-24"
+    },
+    {
+      "id": "penpot-board-game-cards-templates",
+      "name": "Board game cards",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": null,
+      "author": {
+        "name": "Pablo Alba"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/board-game-cards",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Board-game-cards-templates.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Board-game-cards-templates.penpot",
+        "format": "penpot",
+        "bytes": 4520074,
+        "gitSha1": "c9892a32c60f25f9c6d3a4efa693a5d51d2e8b0d"
+      },
+      "cover": "https://site-assets.plasmic.app/5704d24d8a35ea0e306d2ed8cd0f2c51.webp",
+      "published": "2025-01-16",
+      "updated": "2025-01-16"
+    },
+    {
+      "id": "penpot-bootstrap-5-ui-kit-community",
+      "name": "Bootstrap 5 UI Kit (Community)",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Bootstrap%205%20UI%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Bootstrap%205%20UI%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 15317776,
+        "gitSha1": "22f734f330cf07a634b2ebf72437d09943ef46d0"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-boostrap-icons",
+      "name": "Bootstrap icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": null,
+      "author": {
+        "name": "Playzinho"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/bootstrap-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Boostrap%20Icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Boostrap%20Icons.penpot",
+        "format": "penpot",
+        "bytes": 1727854,
+        "gitSha1": "cc767aeaa4ce3102b9cf272c65c7df0cd6f3de63"
+      },
+      "cover": "https://site-assets.plasmic.app/e8bef93b4f90612e0fc73bf561a3f16a.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-hub-bootstrap-5-starter-ui-kit",
+      "name": "bootstrap-5-starter-UI-Kit",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/bootstrap-5-starter-UI-Kit",
+        "repository": null
+      },
+      "licence": null,
+      "file": null,
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-business-process-model-and-notation-bpmn-kit",
+      "name": "Business Process Model and Notation",
+      "provider": "penpot",
+      "kind": "library",
+      "categories": [
+        "Planning",
+        "Libraries"
+      ],
+      "description": "BPMN is a standard graphical notation for business process modeling, using a flowchart method similar to UML activity diagrams.",
+      "author": {
+        "name": "Vladimir Mincev"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/business-process-model-and-notation",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Business%20Process%20Model%20and%20Notation%20BPMN%20Kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Business%20Process%20Model%20and%20Notation%20BPMN%20Kit.penpot",
+        "format": "penpot",
+        "bytes": 1070011,
+        "gitSha1": "9bae02b7614e58191d6c0af2d174efbe5a5fbd25"
+      },
+      "cover": "https://site-assets.plasmic.app/700d65e10bb8a9ee186458d94cdf0da6.png",
+      "published": "2025-10-02",
+      "updated": "2025-10-02"
+    },
+    {
+      "id": "penpot-calendar-interactive-ui-kit-community",
+      "name": "Calendar Interactive UI Kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Calendar UI Kit to help you save your time designing calendar for your future projects. You also can play the demo prototype how this calendar works with your prototype. This is the update version, what's new? Now it using Auto Layout Demo Prototype is also updated Hopefully this may be useful, enjoy.",
+      "author": {
+        "name": "Faiz Abiyandani"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/calendar-interactive-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Calendar%20Interactive%20UI%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Calendar%20Interactive%20UI%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 3067662,
+        "gitSha1": "1ed5576d038cacdcc3cfab864dd858cd7af040e9"
+      },
+      "cover": "https://site-assets.plasmic.app/731eb6cd94ee456d0492c37403db4b8d.jpg",
+      "published": "2026-06-05",
+      "updated": "2026-06-05"
+    },
+    {
+      "id": "penpot-cartas-creativas",
+      "name": "Cartas creativas",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "When you need a minimum variety of different points of view, it may be more effective to play with the main topic and focus on different perspectives.  ",
+      "author": {
+        "name": "Francisco González"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/cartas-creativas",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Cartas%20Creativas.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Cartas%20Creativas.penpot",
+        "format": "penpot",
+        "bytes": 4311793,
+        "gitSha1": "e556ea0f09f2b30255505eaa15fa251352ca0440"
+      },
+      "cover": "https://site-assets.plasmic.app/7ffe54823b423d23b7d72e1db6259e83.webp",
+      "published": "2024-08-22",
+      "updated": "2024-08-22"
+    },
+    {
+      "id": "penpot-circumicons",
+      "name": "Circum icons pack",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "285 evolving icons. ",
+      "author": {
+        "name": "Kñarr Agency"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/circum-icons-pack",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/CircumIcons.penpot"
+      },
+      "licence": {
+        "text": "Mozilla Public License Version 2.0\n==================================\n\n1. Definitions\n--------------\n\n1.1. \"Contributor\"\n    means each individual or legal entity that creates, contributes to\n    the creation of, or owns Covered Software.\n\n1.2. \"Contributor Version\"\n    means the combination of the Contributions of others (if any) used\n    by a Contributor and that particular Contributor's Contribution.\n\n1.3. \"Contribution\"\n    means Covered Software of a particular Contributor.\n\n1.4. \"Covered Software\"\n    means Source Code Form to which the initial Contributor has attached\n    the notice in Exhibit A, the Executable Form of such Source Code\n    Form, and Modifications of such Source Code Form, in each case\n    including portions thereof.\n\n1.5. \"Incompatible With Secondary Licenses\"\n    means\n\n    (a) that the initial Contributor has attached the notice described\n        in Exhibit B to the Covered Software; or\n\n    (b) that the Covered Software was made available under the terms of\n        version 1.1 or earlier of the License, but not also under the\n        terms of a Secondary License.\n\n1.6. \"Executable Form\"\n    means any form of the work other than Source Code Form.\n\n1.7. \"Larger Work\"\n    means a work that combines Covered Software with other material, in\n    a separate file or files, that is not Covered Software.\n\n1.8. \"License\"\n    means this document.\n\n1.9. \"Licensable\"\n    means having the right to grant, to the maximum extent possible,\n    whether at the time of the initial grant or subsequently, any and\n    all of the rights conveyed by this License.\n\n1.10. \"Modifications\"\n    means any of the following:\n\n    (a) any file in Source Code Form that results from an addition to,\n        deletion from, or modification of the contents of Covered\n        Software; or\n\n    (b) any new file in Source Code Form that contains any Covered\n        Software.\n\n1.11. \"Patent Claims\" of a Contributor\n    means any patent claim(s), including without limitation, method,\n    process, and apparatus claims, in any patent Licensable by such\n    Contributor that would be infringed, but for the grant of the\n    License, by the making, using, selling, offering for sale, having\n    made, import, or transfer of either its Contributions or its\n    Contributor Version.\n\n1.12. \"Secondary License\"\n    means either the GNU General Public License, Version 2.0, the GNU\n    Lesser General Public License, Version 2.1, the GNU Affero General\n    Public License, Version 3.0, or any later versions of those\n    licenses.\n\n1.13. \"Source Code Form\"\n    means the form of the work preferred for making modifications.\n\n1.14. \"You\" (or \"Your\")\n    means an individual or a legal entity exercising rights under this\n    License. For legal entities, \"You\" includes any entity that\n    controls, is controlled by, or is under common control with You. For\n    purposes of this definition, \"control\" means (a) the power, direct\n    or indirect, to cause the direction or management of such entity,\n    whether by contract or otherwise, or (b) ownership of more than\n    fifty percent (50%) of the outstanding shares or beneficial\n    ownership of such entity.\n\n2. License Grants and Conditions\n--------------------------------\n\n2.1. Grants\n\nEach Contributor hereby grants You a world-wide, royalty-free,\nnon-exclusive license:\n\n(a) under intellectual property rights (other than patent or trademark)\n    Licensable by such Contributor to use, reproduce, make available,\n    modify, display, perform, distribute, and otherwise exploit its\n    Contributions, either on an unmodified basis, with Modifications, or\n    as part of a Larger Work; and\n\n(b) under Patent Claims of such Contributor to make, use, sell, offer\n    for sale, have made, import, and otherwise transfer either its\n    Contributions or its Contributor Version.\n\n2.2. Effective Date\n\nThe licenses granted in Section 2.1 with respect to any Contribution\nbecome effective for each Contribution on the date the Contributor first\ndistributes such Contribution.\n\n2.3. Limitations on Grant Scope\n\nThe licenses granted in this Section 2 are the only rights granted under\nthis License. No additional rights or licenses will be implied from the\ndistribution or licensing of Covered Software under this License.\nNotwithstanding Section 2.1(b) above, no patent license is granted by a\nContributor:\n\n(a) for any code that a Contributor has removed from Covered Software;\n    or\n\n(b) for infringements caused by: (i) Your and any other third party's\n    modifications of Covered Software, or (ii) the combination of its\n    Contributions with other software (except as part of its Contributor\n    Version); or\n\n(c) under Patent Claims infringed by Covered Software in the absence of\n    its Contributions.\n\nThis License does not grant any rights in the trademarks, service marks,\nor logos of any Contributor (except as may be necessary to comply with\nthe notice requirements in Section 3.4).\n\n2.4. Subsequent Licenses\n\nNo Contributor makes additional grants as a result of Your choice to\ndistribute the Covered Software under a subsequent version of this\nLicense (see Section 10.2) or under the terms of a Secondary License (if\npermitted under the terms of Section 3.3).\n\n2.5. Representation\n\nEach Contributor represents that the Contributor believes its\nContributions are its original creation(s) or it has sufficient rights\nto grant the rights to its Contributions conveyed by this License.\n\n2.6. Fair Use\n\nThis License is not intended to limit any rights You have under\napplicable copyright doctrines of fair use, fair dealing, or other\nequivalents.\n\n2.7. Conditions\n\nSections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted\nin Section 2.1.\n\n3. Responsibilities\n-------------------\n\n3.1. Distribution of Source Form\n\nAll distribution of Covered Software in Source Code Form, including any\nModifications that You create or to which You contribute, must be under\nthe terms of this License. You must inform recipients that the Source\nCode Form of the Covered Software is governed by the terms of this\nLicense, and how they can obtain a copy of this License. You may not\nattempt to alter or restrict the recipients' rights in the Source Code\nForm.\n\n3.2. Distribution of Executable Form\n\nIf You distribute Covered Software in Executable Form then:\n\n(a) such Covered Software must also be made available in Source Code\n    Form, as described in Section 3.1, and You must inform recipients of\n    the Executable Form how they can obtain a copy of such Source Code\n    Form by reasonable means in a timely manner, at a charge no more\n    than the cost of distribution to the recipient; and\n\n(b) You may distribute such Executable Form under the terms of this\n    License, or sublicense it under different terms, provided that the\n    license for the Executable Form does not attempt to limit or alter\n    the recipients' rights in the Source Code Form under this License.\n\n3.3. Distribution of a Larger Work\n\nYou may create and distribute a Larger Work under terms of Your choice,\nprovided that You also comply with the requirements of this License for\nthe Covered Software. If the Larger Work is a combination of Covered\nSoftware with a work governed by one or more Secondary Licenses, and the\nCovered Software is not Incompatible With Secondary Licenses, this\nLicense permits You to additionally distribute such Covered Software\nunder the terms of such Secondary License(s), so that the recipient of\nthe Larger Work may, at their option, further distribute the Covered\nSoftware under the terms of either this License or such Secondary\nLicense(s).\n\n3.4. Notices\n\nYou may not remove or alter the substance of any license notices\n(including copyright notices, patent notices, disclaimers of warranty,\nor limitations of liability) contained within the Source Code Form of\nthe Covered Software, except that You may alter any license notices to\nthe extent required to remedy known factual inaccuracies.\n\n3.5. Application of Additional Terms\n\nYou may choose to offer, and to charge a fee for, warranty, support,\nindemnity or liability obligations to one or more recipients of Covered\nSoftware. However, You may do so only on Your own behalf, and not on\nbehalf of any Contributor. You must make it absolutely clear that any\nsuch warranty, support, indemnity, or liability obligation is offered by\nYou alone, and You hereby agree to indemnify every Contributor for any\nliability incurred by such Contributor as a result of warranty, support,\nindemnity or liability terms You offer. You may include additional\ndisclaimers of warranty and limitations of liability specific to any\njurisdiction.\n\n4. Inability to Comply Due to Statute or Regulation\n---------------------------------------------------\n\nIf it is impossible for You to comply with any of the terms of this\nLicense with respect to some or all of the Covered Software due to\nstatute, judicial order, or regulation then You must: (a) comply with\nthe terms of this License to the maximum extent possible; and (b)\ndescribe the limitations and the code they affect. Such description must\nbe placed in a text file included with all distributions of the Covered\nSoftware under this License. Except to the extent prohibited by statute\nor regulation, such description must be sufficiently detailed for a\nrecipient of ordinary skill to be able to understand it.\n\n5. Termination\n--------------\n\n5.1. The rights granted under this License will terminate automatically\nif You fail to comply with any of its terms. However, if You become\ncompliant, then the rights granted under this License from a particular\nContributor are reinstated (a) provisionally, unless and until such\nContributor explicitly and finally terminates Your grants, and (b) on an\nongoing basis, if such Contributor fails to notify You of the\nnon-compliance by some reasonable means prior to 60 days after You have\ncome back into compliance. Moreover, Your grants from a particular\nContributor are reinstated on an ongoing basis if such Contributor\nnotifies You of the non-compliance by some reasonable means, this is the\nfirst time You have received notice of non-compliance with this License\nfrom such Contributor, and You become compliant prior to 30 days after\nYour receipt of the notice.\n\n5.2. If You initiate litigation against any entity by asserting a patent\ninfringement claim (excluding declaratory judgment actions,\ncounter-claims, and cross-claims) alleging that a Contributor Version\ndirectly or indirectly infringes any patent, then the rights granted to\nYou by any and all Contributors for the Covered Software under Section\n2.1 of this License shall terminate.\n\n5.3. In the event of termination under Sections 5.1 or 5.2 above, all\nend user license agreements (excluding distributors and resellers) which\nhave been validly granted by You or Your distributors under this License\nprior to termination shall survive termination.\n\n************************************************************************\n*                                                                      *\n*  6. Disclaimer of Warranty                                           *\n*  -------------------------                                           *\n*                                                                      *\n*  Covered Software is provided under this License on an \"as is\"       *\n*  basis, without warranty of any kind, either expressed, implied, or  *\n*  statutory, including, without limitation, warranties that the       *\n*  Covered Software is free of defects, merchantable, fit for a        *\n*  particular purpose or non-infringing. The entire risk as to the     *\n*  quality and performance of the Covered Software is with You.        *\n*  Should any Covered Software prove defective in any respect, You     *\n*  (not any Contributor) assume the cost of any necessary servicing,   *\n*  repair, or correction. This disclaimer of warranty constitutes an   *\n*  essential part of this License. No use of any Covered Software is   *\n*  authorized under this License except under this disclaimer.         *\n*                                                                      *\n************************************************************************\n\n************************************************************************\n*                                                                      *\n*  7. Limitation of Liability                                          *\n*  --------------------------                                          *\n*                                                                      *\n*  Under no circumstances and under no legal theory, whether tort      *\n*  (including negligence), contract, or otherwise, shall any           *\n*  Contributor, or anyone who distributes Covered Software as          *\n*  permitted above, be liable to You for any direct, indirect,         *\n*  special, incidental, or consequential damages of any character      *\n*  including, without limitation, damages for lost profits, loss of    *\n*  goodwill, work stoppage, computer failure or malfunction, or any    *\n*  and all other commercial damages or losses, even if such party      *\n*  shall have been informed of the possibility of such damages. This   *\n*  limitation of liability shall not apply to liability for death or   *\n*  personal injury resulting from such party's negligence to the       *\n*  extent applicable law prohibits such limitation. Some               *\n*  jurisdictions do not allow the exclusion or limitation of           *\n*  incidental or consequential damages, so this exclusion and          *\n*  limitation may not apply to You.                                    *\n*                                                                      *\n************************************************************************\n\n8. Litigation\n-------------\n\nAny litigation relating to this License may be brought only in the\ncourts of a jurisdiction where the defendant maintains its principal\nplace of business and such litigation shall be governed by laws of that\njurisdiction, without reference to its conflict-of-law provisions.\nNothing in this Section shall prevent a party's ability to bring\ncross-claims or counter-claims.\n\n9. Miscellaneous\n----------------\n\nThis License represents the complete agreement concerning the subject\nmatter hereof. If any provision of this License is held to be\nunenforceable, such provision shall be reformed only to the extent\nnecessary to make it enforceable. Any law or regulation which provides\nthat the language of a contract shall be construed against the drafter\nshall not be used to construe this License against a Contributor.\n\n10. Versions of the License\n---------------------------\n\n10.1. New Versions\n\nMozilla Foundation is the license steward. Except as provided in Section\n10.3, no one other than the license steward has the right to modify or\npublish new versions of this License. Each version will be given a\ndistinguishing version number.\n\n10.2. Effect of New Versions\n\nYou may distribute the Covered Software under the terms of the version\nof the License under which You originally received the Covered Software,\nor under the terms of any subsequent version published by the license\nsteward.\n\n10.3. Modified Versions\n\nIf you create software not governed by this License, and you want to\ncreate a new license for such software, you may create and use a\nmodified version of this License if you rename the license and remove\nany references to the name of the license steward (except to note that\nsuch modified license differs from this License).\n\n10.4. Distributing Source Code Form that is Incompatible With Secondary\nLicenses\n\nIf You choose to distribute Source Code Form that is Incompatible With\nSecondary Licenses under the terms of this version of the License, the\nnotice described in Exhibit B of this License must be attached.\n\nExhibit A - Source Code Form License Notice\n-------------------------------------------\n\n  This Source Code Form is subject to the terms of the Mozilla Public\n  License, v. 2.0. If a copy of the MPL was not distributed with this\n  file, You can obtain one at http://mozilla.org/MPL/2.0/.\n\nIf it is not possible or desirable to put the notice in a particular\nfile, then You may include the notice in a location (such as a LICENSE\nfile in a relevant directory) where a recipient would be likely to look\nfor such a notice.\n\nYou may add additional accurate notices of copyright ownership.\n\nExhibit B - \"Incompatible With Secondary Licenses\" Notice\n---------------------------------------------------------\n\n  This Source Code Form is \"Incompatible With Secondary Licenses\", as\n  defined by the Mozilla Public License, v. 2.0.",
+        "url": "https://github.com/penpot/penpot-files/blob/main/CircumIcons.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/CircumIcons.penpot",
+        "format": "penpot",
+        "bytes": 491989,
+        "gitSha1": "34da6cee5ed7c4f493f73acab387679a26b31ecf"
+      },
+      "cover": "https://site-assets.plasmic.app/2563a2f993f47f22a3eb86aa844f250e.jpg",
+      "published": "2025-02-05",
+      "updated": "2025-02-05"
+    },
+    {
+      "id": "penpot-hub-classic-resume",
+      "name": "Classic Resume",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": "A one-page resume with serif type, centered section headings over a thin rule, and education first. It comes in US Letter and A4.\n\nEvery line is a text layer you can type over, set in Gelasio, a free Google font that is metric compatible with Georgia. The page is built with flex layout, so when a line wraps or you duplicate a bullet, the rest of the page moves down by itself.\n\nThe layout is ATS-friendly: one main column, no tables and no icons, with dates and locations at the right end of the line they belong to. Both pages, exported to PDF from Penpot, were run through the open-source OpenResume parser, which read all 38 fields correctly.\n\nThis is the Penpot version of the Classic template from ReadableResume, where the same design is also available for Google Docs and Word. MIT License, with the full text on the Read me page in the file. The person, schools and companies in the sample are made up.",
+      "author": {
+        "name": "Super Lede"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/classic-resume",
+        "repository": null
+      },
+      "licence": null,
+      "file": null,
+      "cover": "https://site-assets.plasmic.app/dc25d13c381795a8ca85f9f8576aa2e8.png",
+      "published": "2026-10-18",
+      "updated": "2026-10-18"
+    },
+    {
+      "id": "penpot-cocomaterial",
+      "name": "Cocomaterial",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "Discover CocoMaterial, the Open Source hand-drawn illustration library with 3,252 images. Customize & download!",
+      "author": {
+        "name": "Plumilla"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/cocomaterial",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Cocomaterial.penpot"
+      },
+      "licence": {
+        "text": "This penpot file contains assets licences by cocomaterial license:\nhttps://cocomaterial.com/license",
+        "url": "https://github.com/penpot/penpot-files/blob/main/Cocomaterial.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Cocomaterial.penpot",
+        "format": "penpot",
+        "bytes": 10457166,
+        "gitSha1": "bf6c4ee03a77edaeb42d1ad47aa69708feaab809"
+      },
+      "cover": "https://site-assets.plasmic.app/9f586a5981878f7761e3cce3a589bc94.jpg",
+      "published": "2024-09-13",
+      "updated": "2023-12-15"
+    },
+    {
+      "id": "penpot-color-palette-kit-color-assets-v1",
+      "name": "Color palette kit - Color assets edition",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Libraries"
+      ],
+      "description": "&nbsp;Starter kit for an app color palette using asset colors. Import the template to explore the demos. Or publish the file as a library. There&rsquo;s also a color design tokens edition of this template. Key features and use cases: Every asset color is demoed in the file. If you edit the asset color, the demo will update accordingly. The swatches work well with the Color Contrast plugin if you want to check your color accessibility.",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/color-palette-kit-assets",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Color%20palette%20kit%20-%20color%20assets%20v1.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Color%20palette%20kit%20-%20color%20assets%20v1.penpot",
+        "format": "penpot",
+        "bytes": 3147658,
+        "gitSha1": "a39991b37d1422050ed7c18fd675bb58e7f46fc6"
+      },
+      "cover": "https://site-assets.plasmic.app/07a8f1520237aab5994d444c92346ff5.webp",
+      "published": "2025-12-22",
+      "updated": "2025-12-22"
+    },
+    {
+      "id": "penpot-color-palette-kit-design-tokens-v1",
+      "name": "Color palette kit - Design tokens edition",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Templates"
+      ],
+      "description": "Starter kit for an app color palette, using design tokens. You can import the template and explore the demos, or export the tokens to use in another file. There&rsquo;s also an asset colors edition of this template. Key features and use cases: Every color token is demoed in the file. If you edit the token color, the demo will update accordingly. The swatches work well with the Color Contrast plugin if you want to check your color accessibility.",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/color-palette-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Color%20palette%20kit%20-%20design%20tokens%20v1.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Color%20palette%20kit%20-%20design%20tokens%20v1.penpot",
+        "format": "penpot",
+        "bytes": 3229464,
+        "gitSha1": "cf2e589dce1fc533cf3be43b0e74690ab29d6d6b"
+      },
+      "cover": "https://site-assets.plasmic.app/4ce2713a4d2c9a0f99a2589732cb1aba.webp",
+      "published": "2025-12-22",
+      "updated": "2025-12-22"
+    },
+    {
+      "id": "penpot-community-cards-grid-theme",
+      "name": "Community cards",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": null,
+      "author": {
+        "name": "Systxema"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/community-cards",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Community-Cards-grid-theme.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Community-Cards-grid-theme.penpot",
+        "format": "penpot",
+        "bytes": 1297377,
+        "gitSha1": "e1c9b3947c69ddfb14557349579033baf61e186f"
+      },
+      "cover": "https://site-assets.plasmic.app/dbe9befcd2482a067db514e361cda3ac.webp",
+      "published": "2025-01-14",
+      "updated": "2025-01-14"
+    },
+    {
+      "id": "penpot-community-covers",
+      "name": "Community posters",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": null,
+      "author": {
+        "name": "Systxema"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/community-posters",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/community-covers.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/community-covers.penpot",
+        "format": "penpot",
+        "bytes": 636761,
+        "gitSha1": "f43ffab8d3388e2b0053daf8ac1039132583b991"
+      },
+      "cover": "https://site-assets.plasmic.app/907ca7945c88a542af37dda1b720607a.jpg",
+      "published": "2025-01-14",
+      "updated": "2025-01-14"
+    },
+    {
+      "id": "penpot-penpot-community-wireframe",
+      "name": "Community wireframes",
+      "provider": "penpot",
+      "kind": "wireframe",
+      "categories": [
+        "UX",
+        "Wireframing"
+      ],
+      "description": null,
+      "author": {
+        "name": "Systxema"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/community-wireframes",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/penpot-community-wireframe.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/penpot-community-wireframe.penpot",
+        "format": "penpot",
+        "bytes": 1800735,
+        "gitSha1": "3e41cbab08f9f0fabee949e2bea090f087d21d70"
+      },
+      "cover": "https://site-assets.plasmic.app/08b88889f1f02172624a006505828edc.jpg",
+      "published": "2025-02-03",
+      "updated": "2025-02-03"
+    },
+    {
+      "id": "penpot-company-logos",
+      "name": "Company logos",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set"
+      ],
+      "description": null,
+      "author": {
+        "name": "Eniola"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/company-logos",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Company%20logos.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Company%20logos.penpot",
+        "format": "penpot",
+        "bytes": 3824941,
+        "gitSha1": "1899eee27418703dd39027a1f96b4ae909cdbf1c"
+      },
+      "cover": "https://site-assets.plasmic.app/78bd9c66376f70f100dd3ef7ae1b3ecd.webp",
+      "published": "2025-01-14",
+      "updated": "2025-01-14"
+    },
+    {
+      "id": "penpot-coreui-designsystem-demo",
+      "name": "Core UI Demo",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries"
+      ],
+      "description": null,
+      "author": {
+        "name": "Zjuranko"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/core-ui-demo",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/CoreUI%20DesignSystem%20(DEMO).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/CoreUI%20DesignSystem%20(DEMO).penpot",
+        "format": "penpot",
+        "bytes": 41729709,
+        "gitSha1": "73bcd66aec8273198bd0c3127e80125a64239a2a"
+      },
+      "cover": "https://site-assets.plasmic.app/3247c2117471b10dc65a612076014afb.jpg",
+      "published": "2026-01-12",
+      "updated": "2026-01-12"
+    },
+    {
+      "id": "penpot-coreui-icon-pack",
+      "name": "CoreUI Icon Pack",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/CoreUI%20Icon%20Pack.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/CoreUI%20Icon%20Pack.penpot",
+        "format": "penpot",
+        "bytes": 20716195,
+        "gitSha1": "86895f455f5b28ce3460976ef4c8305d491b9961"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-coreui-ui-kit-v2-0-demo",
+      "name": "CoreUI icon pack",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": "Premium designed free icon set in SVG. CoreUI Icons are beautifully crafted symbols for common actions and items. You can use them in your digital product for web and mobile apps. ",
+      "author": {
+        "name": "Zjuranko"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/coreui-icon-pack",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/CoreUI%20UI%20Kit%20v2.0%20(DEMO).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/CoreUI%20UI%20Kit%20v2.0%20(DEMO).penpot",
+        "format": "penpot",
+        "bytes": 40607672,
+        "gitSha1": "9c51a53be626aff525b674e289472b60f6000923"
+      },
+      "cover": "https://site-assets.plasmic.app/e45c0285a6de1c9e9f808f10cceb75a9.jpg",
+      "published": "2025-02-04",
+      "updated": "2025-02-04"
+    },
+    {
+      "id": "penpot-csd-matrix",
+      "name": "CSD Matrix",
+      "provider": "penpot",
+      "kind": "library",
+      "categories": [
+        "Planning",
+        "Libraries"
+      ],
+      "description": null,
+      "author": {
+        "name": "Renan Mayrinck"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/csd-matrix",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/CSD-Matrix.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/CSD-Matrix.penpot",
+        "format": "penpot",
+        "bytes": 6761,
+        "gitSha1": "cc795f7d00eb6b212e3637d64a302d7551fe3bf2"
+      },
+      "cover": "https://site-assets.plasmic.app/07c63339828dea7340e5042e345398f0.webp",
+      "published": "2025-02-20",
+      "updated": "2025-02-20"
+    },
+    {
+      "id": "penpot-cssgg-icons",
+      "name": "CSS.gg Icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "This file contains components for 700+ icons from the CSS.gg open-source project.",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/cssgg-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/cssgg-icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/cssgg-icons.penpot",
+        "format": "penpot",
+        "bytes": 3007107,
+        "gitSha1": "7e3193881d490807ede21f5af5d4414196dd1805"
+      },
+      "cover": "https://site-assets.plasmic.app/4ee8758d9d8464b62680acd66ebf6e6e.webp",
+      "published": "2024-07-12",
+      "updated": "2024-07-12"
+    },
+    {
+      "id": "penpot-curriculum",
+      "name": "Curriculum",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "Dark and light mode curriculum site template with printed version available. ",
+      "author": {
+        "name": "Enieber Cunha"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/curriculum",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/curriculum.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/curriculum.penpot",
+        "format": "penpot",
+        "bytes": 941506,
+        "gitSha1": "d5b0329e46d4e68f398edddf080fc1d3cd3a2215"
+      },
+      "cover": "https://site-assets.plasmic.app/1f5938dd0e1dc6c2a78aa2c30c94712c.webp",
+      "published": "2025-02-04",
+      "updated": "2025-02-04"
+    },
+    {
+      "id": "penpot-curriculum-by-enieber",
+      "name": "Curriculum-by-Enieber",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Curriculum-by-Enieber.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Curriculum-by-Enieber.penpot",
+        "format": "penpot",
+        "bytes": 324884,
+        "gitSha1": "0d2ce7239e39af57ccbc5b763e230947cf52aee6"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-dashboard-ui-kit-dashboard-free-admin-dashboard-community",
+      "name": "Dashboard UI Kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "SnowUI is a Design System and UI Kit. Learn more: snowui.byewind.com Update: All updates will be posted on my Twitter feed. &nbsp;",
+      "author": {
+        "name": "ByeWind"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/dashboard-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Dashboard%20UI%20Kit%20-%20Dashboard%2C%20Free%20Admin%20Dashboard%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Dashboard%20UI%20Kit%20-%20Dashboard%2C%20Free%20Admin%20Dashboard%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 18950272,
+        "gitSha1": "41d9057e0b4ff1c0a259dac5f1f8b11edb27d9b6"
+      },
+      "cover": "https://site-assets.plasmic.app/f391eec6922d08dd0edaeedf039194e4.png",
+      "published": "2026-05-11",
+      "updated": "2026-05-11"
+    },
+    {
+      "id": "penpot-dashboard-ui-starter-kit",
+      "name": "Dashboard UI starter kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "ApeWTF"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/dashboard-ui-starter-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Dashboard%20UI%20Starter%20Kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Dashboard%20UI%20Starter%20Kit.penpot",
+        "format": "penpot",
+        "bytes": 1774511,
+        "gitSha1": "ccb4ed7a23afac92238eef49ad168c5f12e3453d"
+      },
+      "cover": "https://site-assets.plasmic.app/529a28d6c92a4939d4c49c8a2998aca5.jpg",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-data-visualization-graphs---charts-kit-community",
+      "name": "Data Visualization Graphs / Charts Kit",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "Take your infographics and Graphic Design projects to the next level with our fully customizable Data Visualization kit. With this kit you'll get: 40 Fully Customizable Charts +50 Text & Color Styles AutoLayout V4 Styles and AutoLayout playground Dark and Light mode for the graphs Ideal if you're working on: Data visualization Infographics Complex large scale data projects UI Design",
+      "author": {
+        "name": "DMS Studio"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/charts-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Data%20Visualization%20Graphs%20_%20Charts%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Data%20Visualization%20Graphs%20_%20Charts%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 4669996,
+        "gitSha1": "2c7c9a64fa27e75e1d451bfe5c81ce7d00b8f7fe"
+      },
+      "cover": "https://site-assets.plasmic.app/809f30ea3f0bc1b1748031a2a552f55a.jpg",
+      "published": "2026-06-01",
+      "updated": "2026-06-01"
+    },
+    {
+      "id": "penpot-delivery-app-ui-kit-community",
+      "name": "Delivery App_UI kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Free UI kit for mobile apps. ",
+      "author": {
+        "name": "Maria Kovalevich"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/delivery-app-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Delivery%20App_UI%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Delivery%20App_UI%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 17497549,
+        "gitSha1": "2839089690e90b6173bfb6ebc7ad523d6dc4ffa0"
+      },
+      "cover": "https://site-assets.plasmic.app/dacb53181b6c6facf365cd35f56e5934.jpg",
+      "published": "2026-05-04",
+      "updated": "2026-05-04"
+    },
+    {
+      "id": "penpot-tokens-starter-kit-v3",
+      "name": "Design tokens starter kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Templates",
+        "Libraries"
+      ],
+      "description": "A template showcasing 582 design tokens in action. Including foundation/utility tokens, semantic/component tokens, and multiple themes.  Now updated to include font size tokens and more modular scales!",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/design-tokens-starter-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Tokens%20starter%20kit%20v3.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Tokens%20starter%20kit%20v3.penpot",
+        "format": "penpot",
+        "bytes": 2719694,
+        "gitSha1": "6b56d099a3b9b344d93d406dbd14d8fd4471e126"
+      },
+      "cover": "https://site-assets.plasmic.app/632e53e4cfe68f1755adeba180b21265.webp",
+      "published": "2025-04-01",
+      "updated": "2025-08-13"
+    },
+    {
+      "id": "penpot-detachless-ui-kit",
+      "name": "Detachless UI kit",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Detachless%20UI%20kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Detachless%20UI%20kit.penpot",
+        "format": "penpot",
+        "bytes": 76158800,
+        "gitSha1": "e3268f6d93d2b18037ee1badf89d29115b48a0fc"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-e-commerce-ui-figma-ecommerce-ui-kit-demo-version-community",
+      "name": "Ecommerce UI Kit (Demo Version)",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "E-commerce UI is a feature-rich UI Kit with ready-to-use components and elements for creating a smooth user experience. It includes 475 UI Components, 300+ UI Elements, 17 user interface categories, 70+ web pages, and many more features.The &nbsp;E-commerce UI kit is built with an atomic design system & auto layout. Furthermore, you can also use the Assets panel to jumpstart your next project by simply dragging and dropping pre-made components. You can customize them on the right sidebar. As it should be, it's quick and easy. It also allows you to simply set up colors, font, and shadow in the UI Kit file, which changes everywhere instantaneously. The E-commerce UI Kit also makes it simple to change the state of the component. If you edited a component, you don't have to be afraid to change a variation. Text, icons, and even size will be preserved according to your preferences. As a result, it's one of the most useful UI Kits you'll ever need. UI Kit Home Page: https://www.captain-design.com/uikit/ecommerce-ui Powerful Features: A Complete &nbsp;UI Kit&nbsp; E-commerce UI Kit includes a variety of UI elements, components, styles, web pages, and effects. Design With Auto Layout&nbsp; Auto Layout speeds up the design process and saves you hours of time. Desktop & Mobile Layout&nbsp; Web pages and UI elements that work on both mobile and desktop screens. Easy To Customize&nbsp; The E-commerce UI Kit makes it simple to change colors, fonts, and border-radius across the board. It also makes it simple to update the component's state.",
+      "author": {
+        "name": "Raouf Belakhdar"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/e-commerce-ui-demo",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/E-commerce%20UI%20-%20Figma%20Ecommerce%20UI%20Kit%20(Demo%20Version)%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/E-commerce%20UI%20-%20Figma%20Ecommerce%20UI%20Kit%20(Demo%20Version)%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 60351607,
+        "gitSha1": "4027ffb31c9987336496762044067580f993339a"
+      },
+      "cover": "https://site-assets.plasmic.app/3796dd9ab513a520b59201f30c859254.png",
+      "published": "2026-06-16",
+      "updated": "2026-06-16"
+    },
+    {
+      "id": "penpot-eisenhower-matrix",
+      "name": "Eisenhower matrix",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates",
+        "Planning",
+        "UX"
+      ],
+      "description": "The Eisenhower Matrix, also called the Urgent-Important Matrix, is a handy tool for figuring out what tasks deserve your attention first. It helps you prioritize by breaking tasks into four easy-to-understand categories based on urgency and importance.",
+      "author": {
+        "name": "Elhombretecla"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/eisenhower-matrix",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Eisenhower%20Matrix.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Eisenhower%20Matrix.penpot",
+        "format": "penpot",
+        "bytes": 1288811,
+        "gitSha1": "95acebc78f850e43c227e33d785f77fe0a99825c"
+      },
+      "cover": "https://site-assets.plasmic.app/9a81cdd2c08d87282c21d1ea9f759330.jpg",
+      "published": "2024-11-11",
+      "updated": "2024-11-11"
+    },
+    {
+      "id": "penpot-elastoui-ecommerce-ui-icons",
+      "name": "ElastoUI - Ecommerce UI Icons Library",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set"
+      ],
+      "description": "&nbsp;96 free icons for ecommerce app and website. Popular icons for online stores, websites, apps",
+      "author": {
+        "name": "ElastoUI"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ecommerce-ui-icons-library",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/ElastoUI%20-%20Ecommerce%20UI%20Icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/ElastoUI%20-%20Ecommerce%20UI%20Icons.penpot",
+        "format": "penpot",
+        "bytes": 868427,
+        "gitSha1": "a35ce361199722bd8476241afc1d38e0141fe0a9"
+      },
+      "cover": "https://site-assets.plasmic.app/8e2f205f4379268850d44e0feafd7be5.jpg",
+      "published": "2026-06-25",
+      "updated": "2026-06-25"
+    },
+    {
+      "id": "penpot-empathy-maps",
+      "name": "Empathy maps",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "UX",
+        "Templates"
+      ],
+      "description": "Empathy maps template free to use.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/empathy-maps",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Empathy-Maps.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Empathy-Maps.penpot",
+        "format": "penpot",
+        "bytes": 546413,
+        "gitSha1": "5ed41e220005d4f3c1f2421ffc1da03930efd737"
+      },
+      "cover": "https://site-assets.plasmic.app/ff300d69b997c1d4500a513802272f46.jpg",
+      "published": "2021-10-29",
+      "updated": "2021-10-29"
+    },
+    {
+      "id": "penpot-equalizer-music-app",
+      "name": "Equalizer music app",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": "A comprehensive set of music application components and design tokens. It includes a variety of button variants (primary, secondary, and disabled states) with customizable elements like play icons and text labels (\"The Equalizer\"), demonstrating different states and hierarchies.",
+      "author": {
+        "name": "Elhombretecla"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/equalizer-music-app",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Equalizer%20music%20app.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Equalizer%20music%20app.penpot",
+        "format": "penpot",
+        "bytes": 33719855,
+        "gitSha1": "f8ed3fefe5db4c9eaefa9722505b3e3f22667d89"
+      },
+      "cover": "https://site-assets.plasmic.app/329b871005c4c1a9aac1d6065429f661.png",
+      "published": "2025-11-13",
+      "updated": "2025-11-13"
+    },
+    {
+      "id": "penpot-essential-ui-figma-ui-kit-community",
+      "name": "Essential UI Kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Essential UI kit is a component library with +100 ready to use UI components. Find +100 Free + HTML Landing Page Templates +100 Ui Components We have created four button styles with three main sizes, small, medium, and large. Moreover, every button is an auto-layout component. Enjoy a set of 18 form components to design all your forms effortlessly. You&rsquo;ll find two different form styles with two sizes each, standard and large. Design sidebars and dashboards elements promptly with our tables and lists Components. We have included navbars that work with a wide range of designs, from a basic landing page to a complex eCommerce website. Find a broad range of polished cards built for blog posts, features elements, testimonials, and pricing. Filters are made to help you design dashboards interfaces and eCommerce websites. Find rich filters ready to integrate for your projects. Features : Every component was designed to fit well on mobile screens. You can easily customize the components without any restrictions. Components will fit perfectly your content. Build responsive web interfaces with ease. We have a set of colors and font styles to bring more consistency in your design. Design layouts that are browser friendly with the bootstrap grid system.",
+      "author": {
+        "name": "captain design"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/essential-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Essential%20UI%20-%20Figma%20Ui%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Essential%20UI%20-%20Figma%20Ui%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 5441296,
+        "gitSha1": "043fd2eaf4a6d002a45a0df6cf98a67cbae0f55b"
+      },
+      "cover": "https://site-assets.plasmic.app/76dc96a50bee2a60a75f0bf8fcc832e9.png",
+      "published": "2026-06-08",
+      "updated": "2026-06-08"
+    },
+    {
+      "id": "penpot-feather-icons",
+      "name": "Feather icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "Simply beautiful open source icons. ",
+      "author": {
+        "name": "Mejlak"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/feather-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/feather-icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/feather-icons.penpot",
+        "format": "penpot",
+        "bytes": 143229,
+        "gitSha1": "6bcd1c529e5e98c56ac3d3f70b9cb1b1cc06894d"
+      },
+      "cover": "https://site-assets.plasmic.app/e77edc0c8e54283eb879386788ba6423.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-firefox-browser-mockup",
+      "name": "Firefox mockup",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": null,
+      "author": {
+        "name": "ApeWTF"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/firefox-mockup",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Firefox%20browser%20mockup.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Firefox%20browser%20mockup.penpot",
+        "format": "penpot",
+        "bytes": 851407,
+        "gitSha1": "94161bcc1671e6c13d71d7c3a8c12fbf71ab10bd"
+      },
+      "cover": "https://site-assets.plasmic.app/a4b53382f01ce9da93e7d575e39b61c8.jpg",
+      "published": "2025-01-15",
+      "updated": "2025-01-15"
+    },
+    {
+      "id": "penpot-flex-layout-playground-v2-0",
+      "name": "Flex Layout Playground",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "Welcome to the Flex Layout playground, the new property in Penpot that is revolutionizing our design workflow, inspired by the well-known CSS Flexbox.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/flex-layout-playground",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Flex%20Layout%20Playground%20v2.0.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Flex%20Layout%20Playground%20v2.0.penpot",
+        "format": "penpot",
+        "bytes": 9621943,
+        "gitSha1": "312444f74d902deb995438c8eb4b8e2421e32085"
+      },
+      "cover": "https://site-assets.plasmic.app/ba09a30291c08d730d7f929a59ea2caf.jpg",
+      "published": "2024-07-10",
+      "updated": "2024-09-18"
+    },
+    {
+      "id": "penpot-flex-layout-playground",
+      "name": "Flex Layout Playground",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Flex%20Layout%20Playground.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Flex%20Layout%20Playground.penpot",
+        "format": "penpot",
+        "bytes": 744510,
+        "gitSha1": "e81b524cfd22c6c5d142bad5513ed32bda2a33da"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-fontawesome",
+      "name": "FontAwesome icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": null,
+      "author": {
+        "name": "Playzinho"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/fontawesome-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/FontAwesome.penpot"
+      },
+      "licence": {
+        "text": "Fonticons, Inc. (https://fontawesome.com)\n\n--------------------------------------------------------------------------------\n\nFont Awesome Free License\n\nFont Awesome Free is free, open source, and GPL friendly. You can use it for\ncommercial projects, open source projects, or really almost whatever you want.\nFull Font Awesome Free license: https://fontawesome.com/license/free.\n\n--------------------------------------------------------------------------------\n\n# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)\n\nThe Font Awesome Free download is licensed under a Creative Commons\nAttribution 4.0 International License and applies to all icons packaged\nas SVG and JS file types.\n\n--------------------------------------------------------------------------------\n\n# Fonts: SIL OFL 1.1 License\n\nIn the Font Awesome Free download, the SIL OFL license applies to all icons\npackaged as web and desktop font files.\n\nCopyright (c) 2023 Fonticons, Inc. (https://fontawesome.com)\nwith Reserved Font Name: \"Font Awesome\".\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nSIL OPEN FONT LICENSE\nVersion 1.1 - 26 February 2007\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded,\nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting — in part or in whole — any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.\n\n--------------------------------------------------------------------------------\n\n# Code: MIT License (https://opensource.org/licenses/MIT)\n\nIn the Font Awesome Free download, the MIT license applies to all non-font and\nnon-icon files.\n\nCopyright 2023 Fonticons, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in the\nSoftware without restriction, including without limitation the rights to use, copy,\nmodify, merge, publish, distribute, sublicense, and/or sell copies of the Software,\nand to permit persons to whom the Software is furnished to do so, subject to the\nfollowing conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\nINCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\nPARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\nHOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\n--------------------------------------------------------------------------------\n\n# Attribution\n\nAttribution is required by MIT, SIL OFL, and CC BY licenses. Downloaded Font\nAwesome Free files already contain embedded comments with sufficient\nattribution, so you shouldn't need to do anything additional when using these\nfiles normally.\n\nWe've kept attribution comments terse, so we ask that you do not actively work\nto remove them from files, especially code. They're a great way for folks to\nlearn about Font Awesome.\n\n--------------------------------------------------------------------------------\n\n# Brand Icons\n\nAll brand icons are trademarks of their respective owners. The use of these\ntrademarks does not indicate endorsement of the trademark holder by Font\nAwesome, nor vice versa. **Please do not use brand logos for any purpose except\nto represent the company, product, or service to which they refer.**",
+        "url": "https://github.com/penpot/penpot-files/blob/main/FontAwesome.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/FontAwesome.penpot",
+        "format": "penpot",
+        "bytes": 1634447,
+        "gitSha1": "dc7eb75265bf782287dd714a07284d9a27e000f5"
+      },
+      "cover": "https://site-assets.plasmic.app/106c149a4a6ad4138e5dcbbd4ac82f88.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-food-delivery-app-ui-kit-community",
+      "name": "Food delivery app UI kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "This is a complete ui kit for a food app called bella Onoje. ",
+      "author": {
+        "name": "Marvis"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/food-delivery-app-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Food%20delivery%20app%20Ui%20kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Food%20delivery%20app%20Ui%20kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 22295430,
+        "gitSha1": "6d925667f1882d9c2a9bb41cf412a3cb7698d076"
+      },
+      "cover": "https://site-assets.plasmic.app/915748e58dec1aa37b9918ce1d772cde.png",
+      "published": "2026-05-03",
+      "updated": "2026-05-03"
+    },
+    {
+      "id": "penpot-web3-iconset",
+      "name": "Fusion web3 iconset",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": null,
+      "author": {
+        "name": "Richard Schumann"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/fusion-web3-iconset",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Web3%20IconSet.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Web3%20IconSet.penpot",
+        "format": "penpot",
+        "bytes": 6448224,
+        "gitSha1": "1c4df61c2da4818d424e1050b951202cd825ac32"
+      },
+      "cover": "https://site-assets.plasmic.app/215bc014d8ac83237f505630452ce5ce.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-gighub-locofy-sample-project",
+      "name": "GigHub - Locofy Sample Project",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Templates"
+      ],
+      "description": "Choose a screen/s from our GigHub sample project and run Lightning .  Now relax, have a cuppa and let LocoAI do its magic.",
+      "author": {
+        "name": "Locofy"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/gighub-locofy-sample-project",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/GigHub%20-%20Locofy%20Sample%20Project.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/GigHub%20-%20Locofy%20Sample%20Project.penpot",
+        "format": "penpot",
+        "bytes": 57234306,
+        "gitSha1": "71c05b4e1695b5757ecce0f82b89e47bfc24eab6"
+      },
+      "cover": "https://site-assets.plasmic.app/053fb7eaea1c109cd93afec386a7861b.png",
+      "published": "2025-07-08",
+      "updated": "2025-07-08"
+    },
+    {
+      "id": "penpot-gnome-components",
+      "name": "GNOME Components",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "Michael Kronenberg"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/gnome-components",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/GNOME-Components.penpot"
+      },
+      "licence": {
+        "text": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\n\nhttp://creativecommons.org/licenses/by-sa/4.0/\n\nWhen attributing this work, using \"GNOME Project\" is enough.",
+        "url": "https://github.com/penpot/penpot-files/blob/main/GNOME-Components.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/GNOME-Components.penpot",
+        "format": "penpot",
+        "bytes": 658743,
+        "gitSha1": "7a810955e240dd372341944407a8e2886f7fe490"
+      },
+      "cover": "https://site-assets.plasmic.app/179d532ecf3726412033cc053edad9f4.webp",
+      "published": "2024-08-04",
+      "updated": "2024-08-01"
+    },
+    {
+      "id": "penpot-google-maps-ui-kit-community",
+      "name": "Google maps UI Kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "Google Maps UI Kit",
+      "author": {
+        "name": "Koy Carraway"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/google-maps-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Google%20Maps%20UI%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Google%20Maps%20UI%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 5577744,
+        "gitSha1": "6715ade0d5aef6a4aaedd2f7aaff428884c914d6"
+      },
+      "cover": "https://site-assets.plasmic.app/ad7f88aaadc6e053f1f6c95316e7be8f.jpg",
+      "published": "2026-05-11",
+      "updated": "2026-05-11"
+    },
+    {
+      "id": "penpot-gopher-illustrations",
+      "name": "Gopher Illustrations",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "A set of gopher illustrations free to use.",
+      "author": {
+        "name": "Elhombretecla"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/gopher-illustrations",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Gopher-illustrations.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Gopher-illustrations.penpot",
+        "format": "penpot",
+        "bytes": 16967869,
+        "gitSha1": "1bf054c41afe95c4d165838b98f2399a1e16dd98"
+      },
+      "cover": "https://site-assets.plasmic.app/63b2c8dd8d0953d3d23bacbdbeafd230.jpg",
+      "published": "2025-01-14",
+      "updated": "2025-01-14"
+    },
+    {
+      "id": "penpot-gopher-illustrations-v2",
+      "name": "Gopher illustrations v2",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "A set of gopher illustrations based on the LOTR world. ",
+      "author": {
+        "name": "Elhombretecla"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/gopher-illustrations-v2",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Gopher%20illustrations%20v2.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Gopher%20illustrations%20v2.penpot",
+        "format": "penpot",
+        "bytes": 22249894,
+        "gitSha1": "31c082456f5786f9d4baffe21bd4ed500cfefd02"
+      },
+      "cover": "https://site-assets.plasmic.app/84643368f19d6542187b9f32cc96bfce.jpg",
+      "published": "2024-10-28",
+      "updated": "2024-10-28"
+    },
+    {
+      "id": "penpot-grid-layout-playground",
+      "name": "Grid Layout Playground",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "Grid Layout allows you to efficiently organize, align, and distribute items within a container as well. You can create rows and columns of elements, giving you fine-grained control over their expansion, alignment, and responsiveness to various screen sizes. It's a versatile tool for creating responsive designs.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/grid-layout-playground",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Grid%20layout%20playground.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Grid%20layout%20playground.penpot",
+        "format": "penpot",
+        "bytes": 5954656,
+        "gitSha1": "837f5927143ca04f7906ade5ce9e8ab744f1a9c9"
+      },
+      "cover": "https://site-assets.plasmic.app/17323e47555a3582118c423aac6f47a3.webp",
+      "published": "2024-08-15",
+      "updated": "2024-08-31"
+    },
+    {
+      "id": "penpot-hand-made-icons-by-cocomaterial",
+      "name": "Hand-made icon by Cocomaterial",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "Discover Hand-made icon by CocoMaterial, the Open Source hand-drawn icon library with a lot of categories.",
+      "author": {
+        "name": "Plumilla"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/hand-made-icon",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/hand-made-icons-by-cocomaterial.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/hand-made-icons-by-cocomaterial.penpot",
+        "format": "penpot",
+        "bytes": 4241444,
+        "gitSha1": "1974b095eb699d7be5bbb15f3fa8e53101ca5761"
+      },
+      "cover": "https://site-assets.plasmic.app/1db38cdbc8d83df76d24638532eff832.png",
+      "published": "2025-01-17",
+      "updated": "2025-01-17"
+    },
+    {
+      "id": "penpot-heroicons",
+      "name": "Heroicons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "Beautiful hand-crafted SVG icons by the makers of Tailwind CSS. ",
+      "author": {
+        "name": "Mejlak"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/heroicons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Heroicons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Heroicons.penpot",
+        "format": "penpot",
+        "bytes": 648360,
+        "gitSha1": "979b63d499a227f28de24b08ca8773fca8d95f62"
+      },
+      "cover": "https://site-assets.plasmic.app/992f69977a42dec6583578d54de96637.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-how-to-create-a-flyer",
+      "name": "How to create a flyer",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "A gamified tutorial for beginners that teaches how to use the tools for unexpected situations, to achieve a complete flyer design without the need for third-party programs.",
+      "author": {
+        "name": "Albert Kinng"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/how-to-create-a-flyer",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/how-to-create-a-flyer.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/how-to-create-a-flyer.penpot",
+        "format": "penpot",
+        "bytes": 30616474,
+        "gitSha1": "7f93d8bd24ba5ac012c9d5a1e085740c9cd4fd3f"
+      },
+      "cover": "https://site-assets.plasmic.app/8883c639390e3ef0f5b17b17d7383101.jpg",
+      "published": "2025-07-03",
+      "updated": "2025-07-03"
+    },
+    {
+      "id": "penpot-iconoir",
+      "name": "Iconoir",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": null,
+      "author": {
+        "name": "Emanuele Vezzaro and Luca Burgio"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/iconoir",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Iconoir.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Iconoir.penpot",
+        "format": "penpot",
+        "bytes": 3010643,
+        "gitSha1": "abb3d915f6f324b7405023bf621f997c66dac9c6"
+      },
+      "cover": "https://site-assets.plasmic.app/779dcf8511de95070c528d3b43e75b1b.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-idraaak-privacy-ui-kit",
+      "name": "Idraaak Privacy UI Kit",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Idraaak%20Privacy%20UI%20Kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Idraaak%20Privacy%20UI%20Kit.penpot",
+        "format": "penpot",
+        "bytes": 450950,
+        "gitSha1": "644c062b5e26bff89af597196ff53721ad92ef36"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-hub-idraaak-privacy-ui-kit",
+      "name": "Idraaak Privacy UI Kit",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": "An original bilingual privacy UI kit for explaining camera, microphone and location permissions and managing permission choices. Includes 14 illustrative mobile screens in Arabic RTL and English LTR, native editable text, reusable components, and a usage and CC BY 4.0 license page. Designed for app designers, product teams and privacy educators. These are illustrative design models, not official Android or iOS screens. AI assistance was used in drafting and implementation.",
+      "author": {
+        "name": "Idraaak"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/idraaak-privacy-ui-kit",
+        "repository": null
+      },
+      "licence": null,
+      "file": null,
+      "cover": "https://site-assets.plasmic.app/e67fae9afc68e6230a25be6af497676e.jpg",
+      "published": "2026-10-11",
+      "updated": "2026-10-11"
+    },
+    {
+      "id": "penpot-interactive-music-app",
+      "name": "Interactive music app",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries"
+      ],
+      "description": "Learn how to build interactive prototypes to visualize how users navigate through your screens and mimic your product behaviour.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/interactive-music-app",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Interactive-music-app.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Interactive-music-app.penpot",
+        "format": "penpot",
+        "bytes": 7882797,
+        "gitSha1": "5efc1eb5445cefc69c8df2647bb2d818995dd81e"
+      },
+      "cover": "https://site-assets.plasmic.app/23fe0bcbe5c8d610b2ee3fb506b1f63e.jpg",
+      "published": "2023-05-03",
+      "updated": "2023-05-03"
+    },
+    {
+      "id": "penpot-ios-icon-template",
+      "name": "iOS icon template",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": null,
+      "author": {
+        "name": "Victor Crespo"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ios-icon-template",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/iOS%20icon%20template.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/iOS%20icon%20template.penpot",
+        "format": "penpot",
+        "bytes": 74617,
+        "gitSha1": "2bdf05275dc7e1e61acc059c1cc18ece627abfe0"
+      },
+      "cover": "https://site-assets.plasmic.app/dc02d95345520e87ee485914131477fc.jpg",
+      "published": "2025-10-23",
+      "updated": "2025-10-23"
+    },
+    {
+      "id": "penpot-just-another-project-starter-template",
+      "name": "Just another project starter",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "Just another project starter",
+      "author": {
+        "name": "Maximo Gomez"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/just-another-project-starter",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Just%20Another%20Project%20Starter%20Template.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Just%20Another%20Project%20Starter%20Template.penpot",
+        "format": "penpot",
+        "bytes": 196814,
+        "gitSha1": "f46eb64b90d43b6ae8366e09ae06a3456d39285c"
+      },
+      "cover": "https://site-assets.plasmic.app/a41efb0dc5218d02b811ed388b9aa161.webp",
+      "published": "2025-01-04",
+      "updated": "2025-01-04"
+    },
+    {
+      "id": "penpot-just-another-resume-template",
+      "name": "Just another resume template",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "Just another resume template. ",
+      "author": {
+        "name": "Maximo Gomez"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/just-another-resume-template",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Just%20Another%20Resume%20Template.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Just%20Another%20Resume%20Template.penpot",
+        "format": "penpot",
+        "bytes": 569379,
+        "gitSha1": "2e7d5fa7301211f188f701b9847e34bf57e25044"
+      },
+      "cover": "https://site-assets.plasmic.app/ae9a6555f37cf4367b83b4362e855244.webp",
+      "published": "2025-02-05",
+      "updated": "2025-02-05"
+    },
+    {
+      "id": "penpot-labyrinth-ui-free-v1-0",
+      "name": "Labyrinth UI free kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Design system",
+        "Libraries"
+      ],
+      "description": "Kickstart any project in minutes with a complete design system featuring responsive components, design tokens, and Material Design guidelines—all built natively for Penpot.",
+      "author": {
+        "name": "Zvonko Juranko"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/labyrinth-ui-free-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Labyrinth%20UI-FREE-v1.0.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Labyrinth%20UI-FREE-v1.0.penpot",
+        "format": "penpot",
+        "bytes": 62839458,
+        "gitSha1": "785ebc869a6f620438470b44ae9607fbd6b39ebb"
+      },
+      "cover": "https://site-assets.plasmic.app/2eaa42f16e667cfd6eca225a6e857185.png",
+      "published": "2025-06-18",
+      "updated": "2025-06-18"
+    },
+    {
+      "id": "penpot-lean-ux-canvas",
+      "name": "Lean UX Canvas",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [
+        "UX"
+      ],
+      "description": "The Lean UX Canvas is rooted in the Lean Startup methodology, which encourages a build-measure-learn feedback loop.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/lean-ux-canvas",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Lean-UX-Canvas.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Lean-UX-Canvas.penpot",
+        "format": "penpot",
+        "bytes": 32089,
+        "gitSha1": "0a36d9051710db47ec0e3fdc223c1388928c1eb8"
+      },
+      "cover": "https://site-assets.plasmic.app/b9a119b222b82731a41e57cdec7820b9.jpg",
+      "published": "2022-07-06",
+      "updated": "2023-05-01"
+    },
+    {
+      "id": "penpot-localhost-locofy-sample-project-demo",
+      "name": "Localhost - Locofy Sample project",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Templates"
+      ],
+      "description": "Choose a screen/s from our Localhost sample project and run Lightning .  Now relax, have a cuppa and let LocoAI do its magic.",
+      "author": {
+        "name": "Locofy"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/localhost-locofy-sample-project",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Localhost%20-%20Locofy%20Sample%20Project%20Demo.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Localhost%20-%20Locofy%20Sample%20Project%20Demo.penpot",
+        "format": "penpot",
+        "bytes": 39695190,
+        "gitSha1": "a87a7ec84ff3a53981bdd27859ca3baffee7f33c"
+      },
+      "cover": "https://site-assets.plasmic.app/e8da52a86585cf59aed801e5edf278dd.png",
+      "published": "2025-07-08",
+      "updated": "2025-07-08"
+    },
+    {
+      "id": "penpot-lucide-icons",
+      "name": "Lucide Icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "Lucide is an open-source SVG icon library offering over 1,000 customizable icons with consistent design, scalable for various platforms. The Penpot library integrates Lucide icons for seamless design workflows.",
+      "author": {
+        "name": "Kemie Guaida"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/lucide-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Lucide-icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Lucide-icons.penpot",
+        "format": "penpot",
+        "bytes": 1886654,
+        "gitSha1": "79590077a369daa3fbfb0dd138b70551fe2a2c68"
+      },
+      "cover": "https://site-assets.plasmic.app/4c7a7db7b533e654e03c7e6e25f9a20c.webp",
+      "published": "2024-02-13",
+      "updated": "2025-06-06"
+    },
+    {
+      "id": "penpot-lunarness-accessory-measurement-closure-kit-interactive",
+      "name": "lunarness-accessory-measurement-closure-kit-interactive",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/lunarness-accessory-measurement-closure-kit-interactive.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/lunarness-accessory-measurement-closure-kit-interactive.penpot",
+        "format": "penpot",
+        "bytes": 712928,
+        "gitSha1": "cd39bfe8d0d536cac9f324b590eaf34d42aa5d8e"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-mastodon-social-app",
+      "name": "Mastodon app",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries"
+      ],
+      "description": null,
+      "author": {
+        "name": "ApeWTF"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/mastodon-app",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Mastodon%20Social%20App.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Mastodon%20Social%20App.penpot",
+        "format": "penpot",
+        "bytes": 1123910,
+        "gitSha1": "74a50236208945154cbce0f8902a66006bbf3360"
+      },
+      "cover": "https://site-assets.plasmic.app/a285dbc380514e116634f6aa35019971.webp",
+      "published": "2024-08-08",
+      "updated": "2024-08-08"
+    },
+    {
+      "id": "penpot-material-3-design-kit-community",
+      "name": "Material 3 Design Kit (Community)",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Material%203%20Design%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Material%203%20Design%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 134,
+        "gitSha1": "711f5f6d9a9fa923447b35f626409972c48386c5"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-material-3-mobile-viewports",
+      "name": "Material 3 Mobile Viewports",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Material%203%20Mobile%20Viewports.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Material%203%20Mobile%20Viewports.penpot",
+        "format": "penpot",
+        "bytes": 524984,
+        "gitSha1": "25efabb362654fcf5e70aea6da2696785b101e15"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-material-design-3",
+      "name": "Material Design 3",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": "Ultimate collection of customizable UI elements to design professional mobile and web apps. ",
+      "author": {
+        "name": "Marcos Abreu"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/material-design-3",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Material%20Design%203.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Material%20Design%203.penpot",
+        "format": "penpot",
+        "bytes": 17142266,
+        "gitSha1": "b3ff8e681889729bc6e8ad59b92aea93b459cd42"
+      },
+      "cover": "https://site-assets.plasmic.app/db5204cdbe0f33d822aa647aa1837564.jpg",
+      "published": "2022-03-22",
+      "updated": "2025-03-24"
+    },
+    {
+      "id": "penpot-material-design-kit",
+      "name": "Material Design Baseline",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "Google"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/material-design-baseline",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Material-Design-Kit.penpot"
+      },
+      "licence": {
+        "text": "Contains licensed by the material-design license:\nhttps://github.com/google/material-design-icons/blob/master/LICENSE",
+        "url": "https://github.com/penpot/penpot-files/blob/main/Material-Design-Kit.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Material-Design-Kit.penpot",
+        "format": "penpot",
+        "bytes": 1615391,
+        "gitSha1": "405adc43224d6906436e9b63cd932a2d33c13979"
+      },
+      "cover": "https://site-assets.plasmic.app/63440216b7ae021af90127187fda4596.jpg",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-material-design-icons",
+      "name": "Material Design icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "More than 7000 production-ready icons in the Material Design language. ",
+      "author": {
+        "name": "Pictogrammers"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/material-design-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Material-Design-Icons.penpot"
+      },
+      "licence": {
+        "text": "Pictogrammers Free License\n--------------------------\n\nThis icon collection is released as free, open source, and GPL friendly by\nthe [Pictogrammers](http://pictogrammers.com/) icon group. You may use it\nfor commercial projects, open source projects, or anything really.\n\n# Icons: Apache 2.0 (https://www.apache.org/licenses/LICENSE-2.0)\nSome of the icons are redistributed under the Apache 2.0 license. All other\nicons are either redistributed under their respective licenses or are\ndistributed under the Apache 2.0 license.\n\n# Fonts: Apache 2.0 (https://www.apache.org/licenses/LICENSE-2.0)\nAll web and desktop fonts are distributed under the Apache 2.0 license. Web\nand desktop fonts contain some icons that are redistributed under the Apache\n2.0 license. All other icons are either redistributed under their respective\nlicenses or are distributed under the Apache 2.0 license.\n\n# Code: MIT (https://opensource.org/licenses/MIT)\nThe MIT license applies to all non-font and non-icon files.",
+        "url": "https://github.com/penpot/penpot-files/blob/main/Material-Design-Icons.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Material-Design-Icons.penpot",
+        "format": "penpot",
+        "bytes": 28469963,
+        "gitSha1": "bfc0752558683627af891758e2f2b77f2cb9da53"
+      },
+      "cover": "https://site-assets.plasmic.app/b3f8666172c0690bad96b81f14450331.jpg",
+      "published": "2025-02-04",
+      "updated": "2025-02-04"
+    },
+    {
+      "id": "penpot-material-design-icons-light",
+      "name": "Material Design icons light",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "More than 250 production-ready icons in a light style. ",
+      "author": {
+        "name": "Pictogrammers"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/material-design-icons-light",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Material-Design-Icons-Light.penpot"
+      },
+      "licence": {
+        "text": "# SIL OPEN FONT LICENSE (OFL-1.1)\nView Summary of SIL Open Font License v1.1 (OFL-1.1) on TLDRLegal � (Disclaimer)\n\nCopyright (c) 2015-2017, Austin Andrews (https://materialdesignicons.com),\nwith Reserved Font Name MaterialDesignIconsLight.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nThis license is copied below, and is also available with a FAQ at:  http://scripts.sil.org/OFL\n\n##SIL OPEN FONT LICENSE\nVersion 1.1 - 26 February 2007\n\n##PREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded,\nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\n## DEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting - in part or in whole - any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\n## PERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\n## TERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\n## DISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.",
+        "url": "https://github.com/penpot/penpot-files/blob/main/Material-Design-Icons-Light.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Material-Design-Icons-Light.penpot",
+        "format": "penpot",
+        "bytes": 250541,
+        "gitSha1": "d92638965b43c1cf9a9b7f55192c83ad5ac949cf"
+      },
+      "cover": "https://site-assets.plasmic.app/74d862821a2fd3aa7a040f5d85d8d71e.jpg",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-design-tokens-math-functions",
+      "name": "Math functions in design tokens demo",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system"
+      ],
+      "description": "10 demos using math functions in design tokens. Includes practical demos for round(), ceil(), floor(), abs(), min(), max(), sqrt(), pow(), exp(), and log().",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/math-functions-in-design-tokens",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Design%20tokens%20%2B%20math%20functions.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Design%20tokens%20%2B%20math%20functions.penpot",
+        "format": "penpot",
+        "bytes": 949659,
+        "gitSha1": "70a894f8c65a08fd3b6e9fd5fe9cd94fc05c4241"
+      },
+      "cover": "https://site-assets.plasmic.app/a2cf408fd5dcaf2aced0f9bc1b0a0c93.png",
+      "published": "2026-04-22",
+      "updated": "2026-04-22"
+    },
+    {
+      "id": "penpot-minimalist-wireframing-kit",
+      "name": "Minimalistic Wireframing Kit",
+      "provider": "penpot",
+      "kind": "wireframe",
+      "categories": [
+        "UX",
+        "Libraries",
+        "Wireframing"
+      ],
+      "description": "This file contains 141 components you can use to create wireframes.",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/minimalistic-wireframing-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/minimalist-wireframing-kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/minimalist-wireframing-kit.penpot",
+        "format": "penpot",
+        "bytes": 8470862,
+        "gitSha1": "68b5785ac7d5baee7341b80e4fc349c190ade4bf"
+      },
+      "cover": "https://site-assets.plasmic.app/f948537efa8db43815b8693da7855141.webp",
+      "published": "2024-07-10",
+      "updated": "2024-07-10"
+    },
+    {
+      "id": "penpot-black-white-mobile-templates",
+      "name": "Mobile UI Starter kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "ApeWTF"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/mobile-ui-starter-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Black-%26-White-Mobile-Templates.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Black-%26-White-Mobile-Templates.penpot",
+        "format": "penpot",
+        "bytes": 4396846,
+        "gitSha1": "da6ab8d96ea0251de959b8c37660f7078c519faa"
+      },
+      "cover": "https://site-assets.plasmic.app/b31fc99031c60d0eb13e483f47b70374.jpg",
+      "published": "2024-08-14",
+      "updated": "2024-08-14"
+    },
+    {
+      "id": "penpot-material-3-mobile-viewports-2",
+      "name": "Mobile Viewport Templates",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": null,
+      "author": {
+        "name": "Philipp Rich"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/mobile-viewport-templates",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Material-3-Mobile-Viewports.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Material-3-Mobile-Viewports.penpot",
+        "format": "penpot",
+        "bytes": 122952,
+        "gitSha1": "33cf8242d261ef9ca7f8799fd4cb8ef3cd492889"
+      },
+      "cover": "https://site-assets.plasmic.app/ef86e70c05b9d47bfc6dc186cdabbc89.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-monster-game",
+      "name": "Monster Game",
+      "provider": "penpot",
+      "kind": "library",
+      "categories": [
+        "Libraries"
+      ],
+      "description": "It’s time to bring your wildest monster ideas to life! Use flex layout to create your own creature.",
+      "author": {
+        "name": "Elena Scilinguo"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/monster-game",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/MONSTER%20GAME.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/MONSTER%20GAME.penpot",
+        "format": "penpot",
+        "bytes": 15693211,
+        "gitSha1": "4490eee70494ea096a94eee4b99e01cf92e7eac0"
+      },
+      "cover": "https://site-assets.plasmic.app/850533a73c5927d41926361515d7ae8c.jpg",
+      "published": "2024-11-25",
+      "updated": "2024-11-25"
+    },
+    {
+      "id": "penpot-native-export-about-fixed",
+      "name": "native-export-about-fixed",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/native-export-about-fixed.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/native-export-about-fixed.penpot",
+        "format": "penpot",
+        "bytes": 1008610,
+        "gitSha1": "b600f200b3363630aee096707b5b47bdf37d796f"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-neomorphic-light-ui-kit",
+      "name": "Neomorphic UI kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "Zjuranko"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/neomorphic-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Neomorphic%20Light%20UI%20kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Neomorphic%20Light%20UI%20kit.penpot",
+        "format": "penpot",
+        "bytes": 2179955,
+        "gitSha1": "0003f53896404d4b70ea81c443613d62c6553285"
+      },
+      "cover": "https://site-assets.plasmic.app/94498218dbf209bda2eabe4fae67023b.png",
+      "published": "2025-02-04",
+      "updated": "2025-02-04"
+    },
+    {
+      "id": "penpot-nextcloud-design-system",
+      "name": "Nextcloud design system",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "Nimisha Vijay"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/nextcloud-design-system",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Nextcloud%20design%20system.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Nextcloud%20design%20system.penpot",
+        "format": "penpot",
+        "bytes": 19911866,
+        "gitSha1": "84d99065f73ec2227cc17149e180d94d59e837f1"
+      },
+      "cover": "https://site-assets.plasmic.app/6336f0430f1e6777fa349ec319bb8cc6.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-open-color-scheme-v1-9-1",
+      "name": "Open Color",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries"
+      ],
+      "description": "Open color is an open-source color scheme, optimized for UI like font, background, border, etc. ",
+      "author": {
+        "name": "Renan Mayrinck"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/open-color",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Open%20Color%20Scheme%20(v1.9.1).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Open%20Color%20Scheme%20(v1.9.1).penpot",
+        "format": "penpot",
+        "bytes": 13776,
+        "gitSha1": "74a3ba6b093a6f5c0901d14a80bf749c923f99fe"
+      },
+      "cover": "https://site-assets.plasmic.app/fabfc46d753b29eb4926af8bf8a6a26f.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-oss-product-management-processes",
+      "name": "OSS Product Management processes",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [
+        "UX"
+      ],
+      "description": "In September 2023 the Turing Institute Practitioner's hub were developing a curriculum of support they would offer their cohort members that were building open source science and research related software/data  - Superbloom developed a series of 3 and 3.5hr workshops that were centred around product management, open roadmapping and user research for open source software and open data projects. These are the resources, exercises and content that was delivered as part of those workshops, made openly available for everyone. These templates will help any OSS project at any stage of their development or creation better understand their purpose, strategy, value proposition to users and begin to plan for a flexible, open and participatory way of developing and building OSS.",
+      "author": {
+        "name": "Eriol Fox"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/oss-product-management",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/OSS-Product%20management-processes.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/OSS-Product%20management-processes.penpot",
+        "format": "penpot",
+        "bytes": 8619324,
+        "gitSha1": "37dab6ca283105c9aae34a9bb2b4ab5d0eda1234"
+      },
+      "cover": "https://site-assets.plasmic.app/c54e386970fc45adce6153f1e52f4076.webp",
+      "published": "2024-04-08",
+      "updated": "2024-12-03"
+    },
+    {
+      "id": "penpot-penpot-design-system-v2-1",
+      "name": "Penpot - Design System v2.1",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Penpot%20-%20Design%20System%20v2.1.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Penpot%20-%20Design%20System%20v2.1.penpot",
+        "format": "penpot",
+        "bytes": 14175587,
+        "gitSha1": "070758f38af8c47d81a71b075500e4755990af3a"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-pencil-penpot-design-system",
+      "name": "Penpot Design System | Pencil",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries"
+      ],
+      "description": "This file contains the design system used by the Penpot team.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/penpot-design-system",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Pencil-Penpot-Design-System.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Pencil-Penpot-Design-System.penpot",
+        "format": "penpot",
+        "bytes": 37563315,
+        "gitSha1": "273d573a697f8b69f6ab0572350d5d35eb3823c5"
+      },
+      "cover": "https://site-assets.plasmic.app/8c955966e002fd96171fa26f0820f325.png",
+      "published": "2024-11-26",
+      "updated": "2024-11-26"
+    },
+    {
+      "id": "penpot-penpot-slides-template",
+      "name": "Penpot slides template",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Penpot%20slides%20template.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Penpot%20slides%20template.penpot",
+        "format": "penpot",
+        "bytes": 3975728,
+        "gitSha1": "8ea0058730b8109ac109395d4198a6af39168bee"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-penpot-app",
+      "name": "penpot-app",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/penpot-app.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/penpot-app.penpot",
+        "format": "penpot",
+        "bytes": 15070151,
+        "gitSha1": "8935875e55946c02badb8319a47d3827880f8de5"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-penpot-design-system",
+      "name": "Penpot-Design-system",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Penpot-Design-system.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Penpot-Design-system.penpot",
+        "format": "penpot",
+        "bytes": 5814845,
+        "gitSha1": "5156ea916b0e4837bbfa1d2939cb8935da770131"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-phosphor-icons",
+      "name": "Phosphor Icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "These icons are from the phosphor project. Free, open-source and shared under the MIT license.",
+      "author": {
+        "name": "Kyva Fedi"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/phosphor-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Phosphor%20Icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Phosphor%20Icons.penpot",
+        "format": "penpot",
+        "bytes": 37323227,
+        "gitSha1": "2cab3b2f7e585bb5269ee2fe1047d4c54b6615a3"
+      },
+      "cover": "https://site-assets.plasmic.app/4a0e1ade29d68ae968dfa472c80b8ee1.jpg",
+      "published": "2024-11-13",
+      "updated": "2024-11-13"
+    },
+    {
+      "id": "penpot-plants-app",
+      "name": "Plants app",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries"
+      ],
+      "description": "UI elements to create your app for plants. Why not?",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/plants-app",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Plants-app.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Plants-app.penpot",
+        "format": "penpot",
+        "bytes": 8500061,
+        "gitSha1": "dc9db0dc652cd1a067cba8e400401170af445366"
+      },
+      "cover": "https://site-assets.plasmic.app/3e9e6ecd1a9b5d9d75d2c3fdb8ab2e85.jpg",
+      "published": "2022-08-03",
+      "updated": "2022-08-03"
+    },
+    {
+      "id": "penpot-playground-grid-layout",
+      "name": "Playground Grid Layout",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Playground%20Grid%20Layout.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Playground%20Grid%20Layout.penpot",
+        "format": "penpot",
+        "bytes": 6573046,
+        "gitSha1": "6b0dfb90862d91a24a92f028f2b6ab17a4f316f2"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-podcast-app",
+      "name": "Podcast app",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries"
+      ],
+      "description": "A simple yet effective UI element library for creating podcast or music apps.",
+      "author": {
+        "name": "Elhombretecla"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/podcast-app",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Podcast%20app.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Podcast%20app.penpot",
+        "format": "penpot",
+        "bytes": 6043231,
+        "gitSha1": "3cff3eb382ce780bfe05b5c928525b743028d549"
+      },
+      "cover": "https://site-assets.plasmic.app/9ececfb039dd9c6f61449c26014debfb.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-primeicons",
+      "name": "PrimeIcons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": null,
+      "author": {
+        "name": "@r3ps4J"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/primeicons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/PrimeIcons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/PrimeIcons.penpot",
+        "format": "penpot",
+        "bytes": 1540105,
+        "gitSha1": "3933731f47c471debf85dd69613282df4b25f16b"
+      },
+      "cover": "https://site-assets.plasmic.app/844f8f11d0de7d215a03bfcccaf45c6e.webp",
+      "published": "2024-08-09",
+      "updated": "2024-08-08"
+    },
+    {
+      "id": "penpot-prototype-examples-v1-2",
+      "name": "Prototype examples",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [
+        "UX"
+      ],
+      "description": "This file contains four different examples of prototyping with Penpot.",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/prototype-examples",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Prototype%20examples%20v1.2.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Prototype%20examples%20v1.2.penpot",
+        "format": "penpot",
+        "bytes": 21609752,
+        "gitSha1": "bce11471c741bf5654bfdcef3409d21c67c83c49"
+      },
+      "cover": "https://site-assets.plasmic.app/9ba149b2e2a1136900791ed2d525cf9b.jpg",
+      "published": "2024-08-15",
+      "updated": "2024-08-15"
+    },
+    {
+      "id": "penpot-prototype-examples-v1-1",
+      "name": "Prototype examples v1.1",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Prototype%20examples%20v1.1.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Prototype%20examples%20v1.1.penpot",
+        "format": "penpot",
+        "bytes": 19702698,
+        "gitSha1": "b6908caf391b6b9d75cb996c8f2b6c6b205f0c18"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-prototype-examples",
+      "name": "prototype-examples",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/prototype-examples.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/prototype-examples.penpot",
+        "format": "penpot",
+        "bytes": 17520313,
+        "gitSha1": "a59ebed111d482eff86643bad3e1479c6df77cb8"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-qedra-icons",
+      "name": "Qedra Icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set"
+      ],
+      "description": "We hope Qedra Icons add a warm, simple touch to your projects.  If you enjoy this pack, for more free kitchen & daily life icons.  We’d love to see Qedra in action! 🍳  — Made with care for everyday designers —",
+      "author": {
+        "name": "Muhmad Omar"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/qedra-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Qedra%20Icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Qedra%20Icons.penpot",
+        "format": "penpot",
+        "bytes": 3240609,
+        "gitSha1": "afa08514eb682b2e213e82ec4096e4a1d8f662d2"
+      },
+      "cover": "https://site-assets.plasmic.app/0d45edb15ca9cacbc7a143c297d01e01.png",
+      "published": "2025-07-28",
+      "updated": "2025-07-28"
+    },
+    {
+      "id": "penpot-radix-ui-icons",
+      "name": "Radix UI icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": "A crisp set of 15x15 icons designed by the WorkOS team. ",
+      "author": {
+        "name": "Enieber"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/radix-ui-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/radix-ui-icons.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/radix-ui-icons.penpot",
+        "format": "penpot",
+        "bytes": 835684,
+        "gitSha1": "460135a27e48e5cd3ad7ec6a9a4e3487df0ac49d"
+      },
+      "cover": "https://site-assets.plasmic.app/a228e6a8a70b6b9347b2d429be7ccba2.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-saas-dashboard-ui-kit",
+      "name": "SaaS Dashboard UI Kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Libraries"
+      ],
+      "description": "Modern screens + editable UI components",
+      "author": {
+        "name": "SaaS Design"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/saas-dashboard-ui-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/SaaS%20Dashboard%20UI%20Kit.penpot"
+      },
+      "licence": {
+        "text": "Copyright 2025 SaaS Design\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+        "url": "https://github.com/penpot/penpot-files/blob/main/SaaS%20Dashboard%20UI%20Kit.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/SaaS%20Dashboard%20UI%20Kit.penpot",
+        "format": "penpot",
+        "bytes": 20400695,
+        "gitSha1": "6652e4b0498648c717f2ee962b1b781e15d9f56f"
+      },
+      "cover": "https://site-assets.plasmic.app/f8043f429bc1a26b0bf2f629ccdf2377.png",
+      "published": "2025-08-14",
+      "updated": "2025-08-14"
+    },
+    {
+      "id": "penpot-safari-ios-15",
+      "name": "Safari iOS 15",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "Safari OS 15 browser frames. ",
+      "author": {
+        "name": "Eniola"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/safari-ios-15",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Safari%20iOS%2015.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Safari%20iOS%2015.penpot",
+        "format": "penpot",
+        "bytes": 1429332,
+        "gitSha1": "ec6a16d58d5510f206220cf4796fe162c344bc8a"
+      },
+      "cover": "https://site-assets.plasmic.app/2f38bc7996c09fd08244b29df0493924.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-sales-dashboard-example-template",
+      "name": "Sales dashboard example",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries"
+      ],
+      "description": "Example of UI design, flex and grid layouts, prototyping, light and dark mode colors, typographies and components. ",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/sales-dashboard-example",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/sales-dashboard-example-template.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/sales-dashboard-example-template.penpot",
+        "format": "penpot",
+        "bytes": 10298430,
+        "gitSha1": "f8264b90afefe79fe651e5abf72088ad5c73b8a9"
+      },
+      "cover": "https://site-assets.plasmic.app/bb54c2987ba1a422e16ea3880ba02170.webp",
+      "published": "2025-02-04",
+      "updated": "2025-02-04"
+    },
+    {
+      "id": "penpot-hub-sewlore-sewing-symbols-and-measurement-diagrams",
+      "name": "Sewlore Sewing Symbols and Measurement Diagrams",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": "A native Penpot library for sewing pattern annotation and measurement explanations. Twelve reusable components cover grainlines, fold lines, notches, darts, drill marks, buttons, dimension arrows and cutting/seam lines. Six pages include a cover, symbol sheet, annotated pattern example, measurement diagrams, component sources and a native editable usage note. Component geometry is native and editable; labels imported from SVG remain SVG text. Examples are illustrative calculations, not empirical fabric tests. Design and documentation were AI assisted. Released by Sewlore under Creative Commons Attribution 4.0 (CC BY 4.0).",
+      "author": {
+        "name": "Sewlore"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/sewlore-sewing-symbols-and-measurement-diagrams",
+        "repository": null
+      },
+      "licence": null,
+      "file": null,
+      "cover": "https://site-assets.plasmic.app/5a23dd9b01cd41495ed152d135be2256.png",
+      "published": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "penpot-simple-demo-typography-tokens",
+      "name": "Simple demo: Typography design tokens",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "A simple demo using typography tokens and typography composite tokens for a magazine article.",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/typography-design-tokens-simple-demo",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Simple%20demo%20-%20Typography%20tokens.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Simple%20demo%20-%20Typography%20tokens.penpot",
+        "format": "penpot",
+        "bytes": 10601613,
+        "gitSha1": "3e9c9ddb715bcb8a7ab77fa5480e80052bc3be39"
+      },
+      "cover": "https://site-assets.plasmic.app/21dc228b4b20d30cf14d2d97a1d4947f.png",
+      "published": "2026-01-14",
+      "updated": "2026-01-14"
+    },
+    {
+      "id": "penpot-smartwatch-ui",
+      "name": "Smartwatch UI",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": "UI elements to create your app for smartwatches.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/smartwatch-ui",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/smartwatch-ui.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/smartwatch-ui.penpot",
+        "format": "penpot",
+        "bytes": 3438998,
+        "gitSha1": "742930f508df2972a6e35b2e44d1a77fb9a3f592"
+      },
+      "cover": "https://site-assets.plasmic.app/720daf4cdc2df6d4cf480312e10322ad.jpg",
+      "published": "2022-10-22",
+      "updated": "2022-10-29"
+    },
+    {
+      "id": "penpot-styleui",
+      "name": "StyleUI",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Libraries",
+        "Design system"
+      ],
+      "description": "The good fit for web and mobile projects.",
+      "author": {
+        "name": "Emanuele Vezzaro"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/styleui",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/styleui.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/styleui.penpot",
+        "format": "penpot",
+        "bytes": 12624595,
+        "gitSha1": "a34bb5ee8b7840a1b9b8878089346e0ed542ab14"
+      },
+      "cover": "https://site-assets.plasmic.app/94ef05f20a46a0a277aac32690c2f3f5.webp",
+      "published": "2023-07-05",
+      "updated": "2023-07-05"
+    },
+    {
+      "id": "penpot-tailwind-kit",
+      "name": "Tailwind kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system",
+        "Libraries",
+        "UI kits"
+      ],
+      "description": null,
+      "author": {
+        "name": "Mejlak"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/tailwind-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/tailwind-kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/tailwind-kit.penpot",
+        "format": "penpot",
+        "bytes": 32942,
+        "gitSha1": "f0591f9cfcacee14e024a1f5e788f6fbc551abe5"
+      },
+      "cover": "https://site-assets.plasmic.app/8ee46f24b3037a8caf3619c6da2b3ab5.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-tailwindcss-design-tokens-helionox",
+      "name": "TailwindCSS Design Tokens - Helionox",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Libraries",
+        "Design system"
+      ],
+      "description": "This token library contains a full token-set with all tailwindCSS primitives as well as scaling capabilities.",
+      "author": {
+        "name": "Helionox GmbH"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/design-tokens-helionox",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/TailwindCSS%20Design%20Tokens%20-%20Helionox.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/TailwindCSS%20Design%20Tokens%20-%20Helionox.penpot",
+        "format": "penpot",
+        "bytes": 5253598,
+        "gitSha1": "aa4d27b426b46a7403eac8e6cf157109d079a711"
+      },
+      "cover": "https://site-assets.plasmic.app/b3aa38a9bb48740a257784e9d635fa9c.png",
+      "published": "2025-11-12",
+      "updated": "2025-11-12"
+    },
+    {
+      "id": "penpot-template-source-v1-0-0",
+      "name": "Template Source v1.0.0",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": " This file is an independent, fan-made reconstruction of the official Ghost Source theme, built as a visual design-system reference: tokens, components, and full page layouts (desktop and mobile) reproduced from the theme's source code.",
+      "author": {
+        "name": "RajiLab"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/template-source-v100",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Template%20Source%20v1.0.0.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Template%20Source%20v1.0.0.penpot",
+        "format": "penpot",
+        "bytes": 12278115,
+        "gitSha1": "c2afcc2dc71da4d7f12167baaf5beefde72a1d22"
+      },
+      "cover": "https://site-assets.plasmic.app/0d26fd1b1690eab2cbbe9a62419f3c05.png",
+      "published": "2026-08-31",
+      "updated": "2026-08-31"
+    },
+    {
+      "id": "penpot-original-full-website-design-process",
+      "name": "The Complete Website Design Process",
+      "provider": "penpot",
+      "kind": "wireframe",
+      "categories": [
+        "Templates",
+        "Wireframing"
+      ],
+      "description": "I created this template to simplify web design. It’s a clear, step-by-step guide built from experience to help designers work smarter, stay organized, and consistently exceed client expectations.",
+      "author": {
+        "name": "Marizu Dominic"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/complete-website-design-process",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Original%20Full%20Website%20Design%20Process.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Original%20Full%20Website%20Design%20Process.penpot",
+        "format": "penpot",
+        "bytes": 21375424,
+        "gitSha1": "f32d1d1f4902c84f8654446d5240de5029c6bf76"
+      },
+      "cover": "https://site-assets.plasmic.app/8b9e6628bfcea8b0ae7df8baae6d4b3a.png",
+      "published": "2025-07-29",
+      "updated": "2025-07-29"
+    },
+    {
+      "id": "penpot-tokens-starter-kit",
+      "name": "Tokens starter kit",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Tokens%20starter%20kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Tokens%20starter%20kit.penpot",
+        "format": "penpot",
+        "bytes": 3396239,
+        "gitSha1": "c47a35c598a1e77fd3f4e0f588650ad99e55f2dc"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-travel-a2b-locofy-sample-project",
+      "name": "Travel A2B - Locofy Sample project",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Templates"
+      ],
+      "description": "Choose a screen/s from our Travel A2B sample project and run Lightning .  Now relax, have a cuppa and let LocoAI do its magic.",
+      "author": {
+        "name": "Locofy"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/travel-a2b-locofy-sample-project",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Travel%20A2B%20-%20Locofy%20Sample%20project.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Travel%20A2B%20-%20Locofy%20Sample%20project.penpot",
+        "format": "penpot",
+        "bytes": 35937582,
+        "gitSha1": "6cb19617376d341f14818c5d542575d7348f331f"
+      },
+      "cover": "https://site-assets.plasmic.app/5cdf1db535569612e91d0dfc56bb9557.png",
+      "published": "2025-07-08",
+      "updated": "2025-07-08"
+    },
+    {
+      "id": "penpot-tutorial-for-beginners-v-2-0",
+      "name": "Tutorial for beginners",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Templates"
+      ],
+      "description": "New to Penpot? Don’t worry! This tutorial will teach you the basics so you can start getting the most out of your designs.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/tutorial-for-beginners",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/tutorial-for-beginners%20v.2.0.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/tutorial-for-beginners%20v.2.0.penpot",
+        "format": "penpot",
+        "bytes": 9253981,
+        "gitSha1": "6a47216f8417ab0ed7892c317e51212489b34a50"
+      },
+      "cover": "https://site-assets.plasmic.app/29b7919ac1cac9ca8c83947331bc3f73.jpg",
+      "published": "2023-10-05",
+      "updated": "2023-10-05"
+    },
+    {
+      "id": "penpot-tutorial-for-beginners",
+      "name": "tutorial-for-beginners",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/tutorial-for-beginners.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/tutorial-for-beginners.penpot",
+        "format": "penpot",
+        "bytes": 765000,
+        "gitSha1": "060bf941ac8531fb58ba01a2adb0def9cae43d67"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-type-scale-playground-1",
+      "name": "Type Scale Playground",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Libraries",
+        "Design system"
+      ],
+      "description": "Combine typography tokens and a little sprinkling of logarithmic maths to super quickly create and test harmonious type scales and combinations.",
+      "author": {
+        "name": "Scott Riley"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/type-scale-playground",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Type%20Scale%20Playground(1).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Type%20Scale%20Playground(1).penpot",
+        "format": "penpot",
+        "bytes": 1921167,
+        "gitSha1": "37706db1f867a2358d5d7d92669391fae74c4509"
+      },
+      "cover": "https://site-assets.plasmic.app/975805298dae5ab4a8646cf91e10aa10.jpg",
+      "published": "2026-01-08",
+      "updated": "2026-01-08"
+    },
+    {
+      "id": "penpot-typography-tokens-starter-kit",
+      "name": "Typography design tokens starter kit",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Libraries",
+        "Design system"
+      ],
+      "description": "29 design tokens to help start your typographic system. Use the file to experiment with typography tokens, or export the tokens to use in your own design projects. Key features and use cases: Including documentation, tips for use, and set up for a proportional typographic scale.",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/typography-tokens-starter-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Typography%20Tokens%20Starter%20Kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Typography%20Tokens%20Starter%20Kit.penpot",
+        "format": "penpot",
+        "bytes": 1296413,
+        "gitSha1": "89a8f723e557d1ca2b0f7ce3577d79a01ef3e0f0"
+      },
+      "cover": "https://site-assets.plasmic.app/01d6a0e9acea02761b74cee42210d3d1.png",
+      "published": "2025-12-22",
+      "updated": "2025-12-22"
+    },
+    {
+      "id": "penpot-shadcn-ui-design-system-community",
+      "name": "UI Design System",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Design system"
+      ],
+      "description": "Beautifully designed components built with Radix UI and Tailwind CSS. Accessible and customizable components that you can copy and paste into your apps. Free. Open Source. And Next.js 13 Ready. This file is the design companion to @shadcn's incredible new UI system. https://ui.shadcn.com/ Each component was painstakingly crafted to perfectly match the code implementation. Made with love by @skirano",
+      "author": {
+        "name": "Skirano"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ui-design-system",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/%40shadcn_ui%20-%20Design%20System%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/%40shadcn_ui%20-%20Design%20System%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 13601606,
+        "gitSha1": "30c313938f6979efe1662521a43bee93dce9c5a5"
+      },
+      "cover": "https://site-assets.plasmic.app/0d17bb205069aa7ba30ee875e986e413.png",
+      "published": "2026-05-04",
+      "updated": "2026-05-04"
+    },
+    {
+      "id": "penpot-aws-amplify-ui-kit-community",
+      "name": "UI Kit for AWS Amplify",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits"
+      ],
+      "description": "UI Kit for AWS Amplify",
+      "author": {
+        "name": "AWS Amplify"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ui-kit-for-aws-amplify",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/AWS%20Amplify%20UI%20Kit%20(Community).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/AWS%20Amplify%20UI%20Kit%20(Community).penpot",
+        "format": "penpot",
+        "bytes": 10298852,
+        "gitSha1": "c49eb6672d3f72ff2db9694ff3f640d14ee2804f"
+      },
+      "cover": "https://site-assets.plasmic.app/b53cc382b876f3296463fde872dea583.png",
+      "published": "2026-06-08",
+      "updated": "2026-06-08"
+    },
+    {
+      "id": "penpot-ultimate-whiteboard-kit-templates",
+      "name": "Ultimate whiteboarding kit",
+      "provider": "penpot",
+      "kind": "template",
+      "categories": [
+        "Planning",
+        "Templates"
+      ],
+      "description": "The Ultimate Whiteboarding Kit is your go-to solution for transforming Penpot into a whiteboard for project organization, research documentation, diagrams, sketches, and presentations. It has a series of templates to help you document UX projects, as well as graphics to help you and your team interact like stickers, voting dots, and much more.",
+      "author": {
+        "name": "Renan Mayrinck"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ultimate-whiteboarding-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/ultimate-whiteboard-kit-templates.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/ultimate-whiteboard-kit-templates.penpot",
+        "format": "penpot",
+        "bytes": 4864761,
+        "gitSha1": "812244d20e8042706c28414064a8e73ddef81e88"
+      },
+      "cover": "https://site-assets.plasmic.app/ca11eb36d7e3ea0e37abc94091605dad.webp",
+      "published": "2024-08-01",
+      "updated": "2024-08-01"
+    },
+    {
+      "id": "penpot-user-flow-elements",
+      "name": "User flow elements",
+      "provider": "penpot",
+      "kind": "library",
+      "categories": [
+        "UX",
+        "Libraries"
+      ],
+      "description": "Elements such as basic components, links and pages to create user flows. ",
+      "author": {
+        "name": "Merih Güz"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/user-flow-elements",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/user-flow-elements.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/user-flow-elements.penpot",
+        "format": "penpot",
+        "bytes": 320372,
+        "gitSha1": "554df1540c34ab3c073461e7d39ef53414670be3"
+      },
+      "cover": "https://site-assets.plasmic.app/b3f4999afa49c68b789f7f873f1b1c41.jpg",
+      "published": "2025-02-04",
+      "updated": "2025-02-04"
+    },
+    {
+      "id": "penpot-persona-template",
+      "name": "User Persona Template",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [
+        "UX"
+      ],
+      "description": null,
+      "author": {
+        "name": "Mohamed Youssef"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/user-persona-template",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Persona%20template.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Persona%20template.penpot",
+        "format": "penpot",
+        "bytes": 5909090,
+        "gitSha1": "08d1ab837e4d3518373289a661fee1dc836d35d2"
+      },
+      "cover": "https://site-assets.plasmic.app/f937f3f9849137ae9575e6f696d8a9ee.webp",
+      "published": "2026-08-25",
+      "updated": "2026-08-25"
+    },
+    {
+      "id": "penpot-ux-notes",
+      "name": "UX Notes",
+      "provider": "penpot",
+      "kind": "library",
+      "categories": [
+        "UX",
+        "Libraries"
+      ],
+      "description": "Components focused on creating annotations on wireframes and designs.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/ux-notes",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/UX-Notes.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/UX-Notes.penpot",
+        "format": "penpot",
+        "bytes": 48381,
+        "gitSha1": "6d386b3dd25f7715edf4b4a4c79f0b96f95d28d2"
+      },
+      "cover": "https://site-assets.plasmic.app/6935c5ca498850974c99d01d4f2e9b38.jpg",
+      "published": "2022-10-03",
+      "updated": "2022-10-03"
+    },
+    {
+      "id": "penpot-variant-examples-v1",
+      "name": "Variant examples",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "Design system"
+      ],
+      "description": "Ten components showcasing different use cases for variants. Including basic examples, UI components, and variants using design tokens.",
+      "author": {
+        "name": "Laura Kalbag"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/variant-examples",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Variant%20examples%20v1.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Variant%20examples%20v1.penpot",
+        "format": "penpot",
+        "bytes": 6600113,
+        "gitSha1": "031266ec75acc95b6c35bf594b8d5505eb0ad2b7"
+      },
+      "cover": "https://site-assets.plasmic.app/1110b30bd37cbd639e3811f3ae06b27a.png",
+      "published": "2025-09-23",
+      "updated": "2025-09-23"
+    },
+    {
+      "id": "penpot-webdesign-layouts-library-v2",
+      "name": "Webdesign layouts Library (v2)",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Webdesign%20layouts%20Library%20(v2).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Webdesign%20layouts%20Library%20(v2).penpot",
+        "format": "penpot",
+        "bytes": 29345708,
+        "gitSha1": "ab7476f903de167d1dcd62dd0a94fc49185b70e7"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-webdesign-layouts-library-v2-1",
+      "name": "Webdesign Layouts with tokens and variants",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "UI kits",
+        "UX",
+        "Libraries"
+      ],
+      "description": " A starting library of webdesign components to quickly wireframe and design your website projects. Every section layout is available with desktop and mobile variants, and is using tokens to give you full control.",
+      "author": {
+        "name": "Louis Chancé"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/webdesign-layout",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Webdesign%20layouts%20Library%20(v2.1).penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Webdesign%20layouts%20Library%20(v2.1).penpot",
+        "format": "penpot",
+        "bytes": 14693340,
+        "gitSha1": "81552b14e220b3b028399b749fb924ec4c08f5e7"
+      },
+      "cover": "https://site-assets.plasmic.app/e87a9680b5e5db2701870b0f11f63bbd.jpg",
+      "published": "2025-10-06",
+      "updated": "2025-10-06"
+    },
+    {
+      "id": "penpot-welcome",
+      "name": "welcome",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/welcome.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/welcome.penpot",
+        "format": "penpot",
+        "bytes": 217606,
+        "gitSha1": "e541861edd507396b88b44bf59b67692e8698450"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-whiteboarding-mapping-kit",
+      "name": "Whiteboarding kit",
+      "provider": "penpot",
+      "kind": "library",
+      "categories": [
+        "Planning",
+        "Libraries"
+      ],
+      "description": "A set of elements to streamline your research processes or any activity you need.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/whiteboarding-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Whiteboarding-mapping-kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Whiteboarding-mapping-kit.penpot",
+        "format": "penpot",
+        "bytes": 1453659,
+        "gitSha1": "9acfd1b43052e178a3ffcf3c0f748ea429cd3c68"
+      },
+      "cover": "https://site-assets.plasmic.app/e0ca6025a503b8b8992adfce5ecddd95.jpg",
+      "published": "2023-06-06",
+      "updated": "2024-09-04"
+    },
+    {
+      "id": "penpot-wireframing-kit-v1-1",
+      "name": "Wireframes kit",
+      "provider": "penpot",
+      "kind": "wireframe",
+      "categories": [
+        "UX",
+        "Libraries",
+        "Wireframing"
+      ],
+      "description": "This is a file where you can find different components that allow you to easily create wireframes with low fidelity so you can focus on structure, content and flows.",
+      "author": {
+        "name": "Penpot"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/wireframes-kit",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Wireframing%20kit%20v1.1.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Wireframing%20kit%20v1.1.penpot",
+        "format": "penpot",
+        "bytes": 2671550,
+        "gitSha1": "1f0510916ca8a12366e669d4fb7ef5f77306c1a1"
+      },
+      "cover": "https://site-assets.plasmic.app/082faa73cff1d49c041af68db92571e0.jpg",
+      "published": "2023-12-29",
+      "updated": "2023-09-08"
+    },
+    {
+      "id": "penpot-wireframing-kit",
+      "name": "wireframing-kit",
+      "provider": "penpot",
+      "kind": "other",
+      "categories": [],
+      "description": null,
+      "author": null,
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": null,
+        "repository": "https://github.com/penpot/penpot-files/blob/main/wireframing-kit.penpot"
+      },
+      "licence": null,
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/wireframing-kit.penpot",
+        "format": "penpot",
+        "bytes": 991370,
+        "gitSha1": "3e37946e91343c42ae7209d0847afefabaafcfba"
+      },
+      "cover": null,
+      "published": null,
+      "updated": null
+    },
+    {
+      "id": "penpot-zest-icons",
+      "name": "Zest icons",
+      "provider": "penpot",
+      "kind": "icons",
+      "categories": [
+        "Icon set",
+        "Libraries"
+      ],
+      "description": "200 free icons for websites and applications. This icons are made available under the MIT license. ",
+      "author": {
+        "name": "32Pixels"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/zest-icons",
+        "repository": "https://github.com/penpot/penpot-files/blob/main/Zest%20Icons.penpot"
+      },
+      "licence": {
+        "text": "Zest Free License\n=================\n\nCopyright © 2019-2020 32pixels, LLC\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+        "url": "https://github.com/penpot/penpot-files/blob/main/Zest%20Icons.LICENSE"
+      },
+      "file": {
+        "url": "https://penpot.github.io/penpot-files/Zest%20Icons.penpot",
+        "format": "penpot",
+        "bytes": 767972,
+        "gitSha1": "f0b7478cd7516f7c8888d6e962e4f23f841cdb2a"
+      },
+      "cover": "https://site-assets.plasmic.app/6100e4ffec33efa2ffb4a5d4bd8510ba.jpg",
+      "published": "2025-02-04",
+      "updated": "2025-02-04"
+    }
+  ]
+}

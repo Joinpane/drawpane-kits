@@ -1,0 +1,31 @@
+{
+  "id": "example-kit",
+  "name": "Example Kit",
+  "kind": "ui-kit",
+  "description": "A kit for the registry's own tests.",
+  "author": {
+    "name": "Example Author",
+    "url": "https://example.com"
+  },
+  "source": {
+    "page": "https://example.com/kit",
+    "file": "https://example.com/kit.fig"
+  },
+  "licence": {
+    "spdx": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "attribution": "\"Example Kit\" by Example Author, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Converted to Drawpane from the original.",
+  "modified": true,
+  "file": {
+    "url": "kit.penpot",
+    "format": "penpot",
+    "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
+    "bytes": 22
+  },
+  "cover": "cover.png",
+  "tags": [
+    "Example"
+  ],
+  "added": "2026-11-15"
+}

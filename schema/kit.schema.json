@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/Joinpane/drawpane-kits/main/schema/kit.schema.json",
+  "title": "A kit hosted in this registry",
+  "description": "kits/<id>/kit.json: a kit whose file lives in this repository (or at a URL it names), under an allowed open licence.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "kind",
+    "description",
+    "author",
+    "source",
+    "licence",
+    "attribution",
+    "modified",
+    "file",
+    "cover",
+    "tags",
+    "added"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 64,
+      "description": "The kit's folder name. Never starts with `penpot-` (those are Penpot's)."
+    },
+    "name": { "type": "string", "minLength": 1, "maxLength": 120 },
+    "kind": { "enum": ["ui-kit", "library", "template", "icons", "wireframe", "other"] },
+    "description": { "type": "string", "minLength": 1, "maxLength": 2000 },
+    "author": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1, "maxLength": 200 },
+        "url": { "type": "string", "pattern": "^https://" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["page"],
+      "description": "Where the original is: its page, and its file when there is one.",
+      "properties": {
+        "page": { "type": "string", "pattern": "^https://" },
+        "file": { "type": "string", "pattern": "^https://" }
+      }
+    },
+    "licence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["spdx", "url"],
+      "properties": {
+        "spdx": {
+          "enum": ["MIT", "Apache-2.0", "CC-BY-4.0", "CC-BY-SA-4.0", "OFL-1.1", "MPL-2.0", "CC0-1.0"]
+        },
+        "url": { "type": "string", "pattern": "^https://" }
+      }
+    },
+    "attribution": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 1000,
+      "description": "Shown with the kit and put in the file: title, author, licence and link, and that it was converted."
+    },
+    "modified": {
+      "type": "boolean",
+      "description": "True when the file was converted or changed for Drawpane."
+    },
+    "file": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "format", "sha256", "bytes"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "minLength": 1,
+          "description": "A path in this kit's folder (e.g. `kit.penpot`), or an https URL."
+        },
+        "format": { "const": "penpot" },
+        "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+        "bytes": { "type": "integer", "minimum": 1, "maximum": 26214400 }
+      }
+    },
+    "cover": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9._-]+\\.png$",
+      "description": "A PNG in this kit's folder, 1390 x 724."
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 12,
+      "items": { "type": "string", "minLength": 1, "maxLength": 40 }
+    },
+    "added": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+  }
+}

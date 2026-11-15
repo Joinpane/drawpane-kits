@@ -1,0 +1,16 @@
+{
+  "name": "drawpane-kits",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "penpot": "node scripts/penpot-hub.mjs",
+    "index": "node scripts/build-index.mjs",
+    "validate": "node scripts/validate-kits.mjs && node scripts/build-index.mjs --check",
+    "test": "node --test test/"
+  },
+  "devDependencies": {
+    "ajv": "8.17.1"
+  },
+  "engines": { "node": ">=22" }
+}

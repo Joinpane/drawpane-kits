@@ -1,0 +1,22 @@
+# Every push and pull request: kits hosted here follow the rules (schema,
+# allowed licence, attribution, file sha256 and size, cover), and index.json
+# is exactly what kits/ and sources/ make.
+name: Validate
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run validate
