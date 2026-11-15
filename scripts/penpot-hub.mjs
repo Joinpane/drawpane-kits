@@ -150,7 +150,7 @@ function kindOf(categories) {
 
 /**
  * What kind of file an export is, from its first bytes (a range request, so
- * nothing is downloaded): a zip (Penpot 2's binfile v3), Penpot 1's binfile
+ * nothing is downloaded): a zip (Penpot's current binfile v3), Penpot's older binfile
  * v1, binfile v2 (SQLite), or a Git LFS pointer, which is what Pages serves
  * for a file kept in LFS. Drawpane says up front what it can't import.
  */
