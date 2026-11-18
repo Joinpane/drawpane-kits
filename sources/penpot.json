@@ -3467,6 +3467,30 @@
       "updated": "2026-10-10"
     },
     {
+      "id": "penpot-hub-shadcn-ui-components",
+      "name": "shadcn/ui Components",
+      "provider": "penpot",
+      "kind": "ui-kit",
+      "categories": [
+        "Libraries",
+        "UI kits"
+      ],
+      "description": "shadcn/ui (base-vega) rebuilt in Penpot, with variant props that match the code, tokens and light/dark themes. Two agent skills turn boards into React or SvelteKit code and sync code changes back into Penpot.",
+      "author": {
+        "name": "tofu"
+      },
+      "source": {
+        "name": "Penpot's libraries and templates hub",
+        "page": "https://penpot.app/penpothub/libraries-templates/shadcn-ui-components",
+        "repository": null
+      },
+      "licence": null,
+      "file": null,
+      "cover": "https://site-assets.plasmic.app/5e7f80a4ee25d89ad4b4bbee78d52ac0.png",
+      "published": "2026-11-17",
+      "updated": "2026-11-17"
+    },
+    {
       "id": "penpot-simple-demo-typography-tokens",
       "name": "Simple demo: Typography design tokens",
       "provider": "penpot",
